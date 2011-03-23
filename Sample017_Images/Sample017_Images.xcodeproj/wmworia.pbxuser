@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Sample017_ImagesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{334, 0}";
+			sepNavVisRange = "{0, 464}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Sample017_ImagesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{589, 0}";
+			sepNavVisRange = "{103, 747}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sample017_Images */ = {
+		activeExec = 0;
+		executables = (
+			C9C06E7A1339ECC200A5EFC8 /* Sample017_Images */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9C06E7A1339ECC200A5EFC8 /* Sample017_Images */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sample017_Images */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Sample017_Images */,
+		);
+		codeSenseManager = C9C06E851339ECD500A5EFC8 /* Code sense */;
+		executables = (
+			C9C06E7A1339ECC200A5EFC8 /* Sample017_Images */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322563266;
+			PBXWorkspaceStateSaveDate = 322563266;
+		};
+		perUserProjectItems = {
+			C9C06E9E1339F0AF00A5EFC8 /* PBXTextBookmark */ = C9C06E9E1339F0AF00A5EFC8 /* PBXTextBookmark */;
+			C9C06E9F1339F0AF00A5EFC8 /* PBXTextBookmark */ = C9C06E9F1339F0AF00A5EFC8 /* PBXTextBookmark */;
+			C9C06EA01339F0AF00A5EFC8 /* PBXTextBookmark */ = C9C06EA01339F0AF00A5EFC8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9C06E841339ECD500A5EFC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C9C06E7A1339ECC200A5EFC8 /* Sample017_Images */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sample017_Images;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C9C06E841339ECD500A5EFC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9C06E851339ECD500A5EFC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9C06E9E1339F0AF00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Sample017_ImagesAppDelegate.h */;
+		name = "Sample017_ImagesAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 0;
+	};
+	C9C06E9F1339F0AF00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample017_ImagesAppDelegate.m */;
+		name = "Sample017_ImagesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 0;
+	};
+	C9C06EA01339F0AF00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample017_ImagesAppDelegate.m */;
+		name = "Sample017_ImagesAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 589;
+		rType = 0;
+		vrLen = 747;
+		vrLoc = 103;
+	};
+}

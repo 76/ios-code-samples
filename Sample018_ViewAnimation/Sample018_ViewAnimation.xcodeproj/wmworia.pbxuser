@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Sample018_ViewAnimationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{523, 0}";
+			sepNavVisRange = "{0, 531}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Sample018_ViewAnimationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1677}}";
+			sepNavSelRange = "{2633, 0}";
+			sepNavVisRange = "{2809, 798}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sample018_ViewAnimation */ = {
+		activeExec = 0;
+		executables = (
+			C9C06EA41339F0C200A5EFC8 /* Sample018_ViewAnimation */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9C06EA41339F0C200A5EFC8 /* Sample018_ViewAnimation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sample018_ViewAnimation */;
+		breakpoints = (
+		);
+		codeSenseManager = C9C06EAF1339F0CF00A5EFC8 /* Code sense */;
+		executables = (
+			C9C06EA41339F0C200A5EFC8 /* Sample018_ViewAnimation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322564290;
+			PBXWorkspaceStateSaveDate = 322564290;
+		};
+		perUserProjectItems = {
+			C9C06ECC1339F5DF00A5EFC8 /* PBXTextBookmark */ = C9C06ECC1339F5DF00A5EFC8 /* PBXTextBookmark */;
+			C9C06ECD1339F5DF00A5EFC8 /* PBXTextBookmark */ = C9C06ECD1339F5DF00A5EFC8 /* PBXTextBookmark */;
+			C9C06EE81339F75900A5EFC8 /* PBXTextBookmark */ = C9C06EE81339F75900A5EFC8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9C06EAE1339F0CF00A5EFC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C9C06EA41339F0C200A5EFC8 /* Sample018_ViewAnimation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sample018_ViewAnimation;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C9C06EAE1339F0CF00A5EFC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9C06EAF1339F0CF00A5EFC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9C06ECC1339F5DF00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Sample018_ViewAnimationAppDelegate.h */;
+		name = "Sample018_ViewAnimationAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 523;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 0;
+	};
+	C9C06ECD1339F5DF00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample018_ViewAnimationAppDelegate.m */;
+		name = "Sample018_ViewAnimationAppDelegate.m: 81";
+		rLen = 0;
+		rLoc = 2633;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 2809;
+	};
+	C9C06EE81339F75900A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample018_ViewAnimationAppDelegate.m */;
+		name = "Sample018_ViewAnimationAppDelegate.m: 81";
+		rLen = 0;
+		rLoc = 2633;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 2809;
+	};
+}

@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Sample006_Shape' target in the 'Sample006_Shape' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
