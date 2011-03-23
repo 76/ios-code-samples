@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Sample011_MemoryMgmt' target in the 'Sample011_MemoryMgmt' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

@@ -1,0 +1,226 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Sample014_EventManagerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 897}}";
+			sepNavSelRange = "{1699, 8}";
+			sepNavVisRange = "{681, 1181}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Sample014_EventManagerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 4186}}";
+			sepNavSelRange = "{6269, 0}";
+			sepNavVisRange = "{5852, 878}";
+			sepNavWindowFrame = "{{15, 65}, {884, 708}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sample014_EventManager */ = {
+		activeExec = 0;
+		executables = (
+			C92CF1B413334CA600937DD6 /* Sample014_EventManager */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C92CF1B413334CA600937DD6 /* Sample014_EventManager */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sample014_EventManager */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Sample014_EventManager */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = C92CF1C113334CAD00937DD6 /* Code sense */;
+		executables = (
+			C92CF1B413334CA600937DD6 /* Sample014_EventManager */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					164,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322471040;
+			PBXWorkspaceStateSaveDate = 322471040;
+		};
+		perUserProjectItems = {
+			C9C06C321338891B00A5EFC8 /* PBXTextBookmark */ = C9C06C321338891B00A5EFC8 /* PBXTextBookmark */;
+			C9C06C331338891B00A5EFC8 /* PBXTextBookmark */ = C9C06C331338891B00A5EFC8 /* PBXTextBookmark */;
+			C9C06C341338891B00A5EFC8 /* PBXTextBookmark */ = C9C06C341338891B00A5EFC8 /* PBXTextBookmark */;
+			C9C06C351338891B00A5EFC8 /* PBXTextBookmark */ = C9C06C351338891B00A5EFC8 /* PBXTextBookmark */;
+			C9C06C361338891B00A5EFC8 /* PBXTextBookmark */ = C9C06C361338891B00A5EFC8 /* PBXTextBookmark */;
+			C9C06C371338891B00A5EFC8 /* PBXTextBookmark */ = C9C06C371338891B00A5EFC8 /* PBXTextBookmark */;
+			C9C06C381338891B00A5EFC8 /* PBXBookmark */ = C9C06C381338891B00A5EFC8 /* PBXBookmark */;
+			C9C06C391338891B00A5EFC8 /* PlistBookmark */ = C9C06C391338891B00A5EFC8 /* PlistBookmark */;
+		};
+		sourceControlManager = C92CF1C013334CAD00937DD6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C92CF1B413334CA600937DD6 /* Sample014_EventManager */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sample014_EventManager;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C92CF1C013334CAD00937DD6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C92CF1C113334CAD00937DD6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C92CF1EC1333540300937DD6 /* Event.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 561}}";
+			sepNavSelRange = "{562, 1}";
+			sepNavVisRange = "{0, 570}";
+		};
+	};
+	C92CF1ED1333540300937DD6 /* Event.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 561}}";
+			sepNavSelRange = "{369, 0}";
+			sepNavVisRange = "{0, 414}";
+		};
+	};
+	C92CF20213335C6800937DD6 /* Guest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 561}}";
+			sepNavSelRange = "{275, 4}";
+			sepNavVisRange = "{0, 287}";
+		};
+	};
+	C92CF20313335C6800937DD6 /* Guest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 561}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 228}";
+		};
+	};
+	C9C06C321338891B00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C92CF1ED1333540300937DD6 /* Event.m */;
+		name = "Event.m: 24";
+		rLen = 0;
+		rLoc = 369;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	C9C06C331338891B00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C92CF1EC1333540300937DD6 /* Event.h */;
+		name = "Event.h: 27";
+		rLen = 1;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	C9C06C341338891B00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C92CF20313335C6800937DD6 /* Guest.m */;
+		name = "Guest.m: 14";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	C9C06C351338891B00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C92CF20213335C6800937DD6 /* Guest.h */;
+		name = "Guest.h: 16";
+		rLen = 4;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	C9C06C361338891B00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Sample014_EventManagerAppDelegate.h */;
+		name = "Sample014_EventManagerAppDelegate.h: 59";
+		rLen = 8;
+		rLoc = 1699;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 681;
+	};
+	C9C06C371338891B00A5EFC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample014_EventManagerAppDelegate.m */;
+		name = "Sample014_EventManagerAppDelegate.m: 227";
+		rLen = 0;
+		rLoc = 6269;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 5852;
+	};
+	C9C06C381338891B00A5EFC8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Sample014_EventManager-Info.plist */;
+	};
+	C9C06C391338891B00A5EFC8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Sample014_EventManager-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wmworia/Documents/ignitemobile/sample/Sample014_EventManager/Sample014_EventManager-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

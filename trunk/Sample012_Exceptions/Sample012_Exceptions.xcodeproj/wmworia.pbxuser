@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* Sample012_ExceptionsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1352}}";
+			sepNavSelRange = "{580, 0}";
+			sepNavVisRange = "{229, 901}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sample012_Exceptions */ = {
+		activeExec = 0;
+		executables = (
+			C92CF0F213333EF100937DD6 /* Sample012_Exceptions */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C92CF0F213333EF100937DD6 /* Sample012_Exceptions */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sample012_Exceptions */;
+		codeSenseManager = C92CF0FD13333F1000937DD6 /* Code sense */;
+		executables = (
+			C92CF0F213333EF100937DD6 /* Sample012_Exceptions */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322125553;
+			PBXWorkspaceStateSaveDate = 322125553;
+		};
+		perUserProjectItems = {
+			C92CF12E1333427800937DD6 /* PBXTextBookmark */ = C92CF12E1333427800937DD6 /* PBXTextBookmark */;
+			C92CF1301333427800937DD6 /* PBXTextBookmark */ = C92CF1301333427800937DD6 /* PBXTextBookmark */;
+			C92CF1311333427800937DD6 /* PBXTextBookmark */ = C92CF1311333427800937DD6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C92CF0FC13333F1000937DD6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C92CF0F213333EF100937DD6 /* Sample012_Exceptions */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sample012_Exceptions;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C92CF0FC13333F1000937DD6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C92CF0FD13333F1000937DD6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C92CF12E1333427800937DD6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C92CF12F1333427800937DD6 /* NSException.h */;
+		name = "NSException.h: 53";
+		rLen = 16;
+		rLoc = 1746;
+		rType = 0;
+		vrLen = 1143;
+		vrLoc = 1110;
+	};
+	C92CF12F1333427800937DD6 /* NSException.h */ = {
+		isa = PBXFileReference;
+		name = NSException.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h;
+		sourceTree = "<absolute>";
+	};
+	C92CF1301333427800937DD6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample012_ExceptionsAppDelegate.m */;
+		name = "Sample012_ExceptionsAppDelegate.m: 35";
+		rLen = 11;
+		rLoc = 899;
+		rType = 0;
+		vrLen = 901;
+		vrLoc = 229;
+	};
+	C92CF1311333427800937DD6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Sample012_ExceptionsAppDelegate.m */;
+		name = "Sample012_ExceptionsAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 580;
+		rType = 0;
+		vrLen = 901;
+		vrLoc = 229;
+	};
+}

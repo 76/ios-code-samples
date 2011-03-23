@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Sample005_Selectors' target in the 'Sample005_Selectors' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

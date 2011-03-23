@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Sample010_StudentRegister' target in the 'Sample010_StudentRegister' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
