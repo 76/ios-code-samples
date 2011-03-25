@@ -1,256 +1,0 @@
-TSample021_UserDefaults
-v7
-r0
-t322737540.921730
-cCheck dependencies
-cProcessInfoPlistFile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Info.plist Sample021_UserDefaults-Info.plist
-cCompileXIB /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/MainWindow.xib
-cCompileXIB /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaultsViewController.xib
-cProcessPCH /var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch.gch Sample021_UserDefaults_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/main.o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsAppDelegate.o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsViewController.o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults normal i386
-cGenerateDSYMFile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app.dSYM /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults
-cTouch /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004D3958F70000000000000110
-t1295603959
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.h
-c000000004D8C52E20000000000000248
-t1301041890
-s584
-i<UIKit/UIKit.h>
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m
-c000000004D8C52E20000000000000AEF
-t1301041890
-s2799
-i"Sample021_UserDefaultsAppDelegate.h"
-i"Sample021_UserDefaultsViewController.h"
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.h
-c000000004D8C589C00000000000001E5
-t1301043356
-s485
-i<UIKit/UIKit.h>
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m
-c000000004D8C5CC90000000000000DA0
-t1301044425
-s3488
-i"Sample021_UserDefaultsViewController.h"
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/MainWindow.xib
-c000000004D8C53B20000000000005025
-t1301042098
-s20517
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaultsViewController.xib
-c000000004D8C5DFF00000000000077BD
-t1301044735
-s30653
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaults_Prefix.pch
-c000000004D8C52E200000000000000D5
-t1301041890
-s213
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app
-t1301044740
-s238
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app.dSYM
-t1301044426
-s102
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Info.plist
-t1301042445
-s657
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/MainWindow.nib
-t1301042448
-s1153
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/PkgInfo
-t1301042445
-s8
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults
-t1301044426
-s24792
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaultsViewController.nib
-t1301044740
-s2565
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaults.LinkFileList
-c000000004D8C550D000000000000025C
-t1301042445
-s604
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsAppDelegate.o
-t1301043898
-s53280
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsViewController.o
-t1301044425
-s56232
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/main.o
-t1301042451
-s6360
-
-N/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m
-c000000004D8C52E20000000000000187
-t1301041890
-s391
-i<UIKit/UIKit.h>
-
-N/var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch.gch
-t1301042450
-s15453392
-
-NSample021_UserDefaults-Info.plist
-c000000004D8C52E2000000000000038D
-t1301041890
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies322737539#322737539#0(0"0(0#1#0"8603857728#0"0#
-
-CCompileC build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsAppDelegate.o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322736696.837274
-e322736698.970164
-r1
-xCompileC
-xbuild/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsAppDelegate.o
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@119"Compile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m322736696#322736698#0(0"0(0#0#111"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m8627466560#2599"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-generated-files.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-own-target-headers.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-all-target-headers.hmap -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-project-headers.hmap -F/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/include -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources/i386 -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources -include /var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch -c /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsAppDelegate.m -o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsAppDelegate.o0#
-
-CCompileC build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsViewController.o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322737225.773562
-e322737225.969303
-r1
-xCompileC
-xbuild/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsViewController.o
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@122"Compile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m322737225#322737225#0(0"0(0#0#114"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m8626382464#2605"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-generated-files.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-own-target-headers.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-all-target-headers.hmap -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-project-headers.hmap -F/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/include -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources/i386 -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources -include /var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch -c /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Classes/Sample021_UserDefaultsViewController.m -o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaultsViewController.o0#
-
-CCompileC build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/main.o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322735251.169564
-e322735251.377387
-r1
-xCompileC
-xbuild/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/main.o
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@82"Compile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m322735251#322735251#0(0"0(0#0#74"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m8616476448#2533"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-generated-files.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-own-target-headers.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-all-target-headers.hmap -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-project-headers.hmap -F/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/include -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources/i386 -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources -include /var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch -c /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/main.m -o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/MainWindow.xib
-s322735245.987270
-e322735248.091703
-r1
-xCompileXIB
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib322735245#322735248#0(0"0(0#0#82"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/MainWindow.xib8615223232#672"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/MainWindow.nib /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaultsViewController.xib
-s322737539.206097
-e322737540.886239
-r1
-xCompileXIB
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaultsViewController.xib
-lSLF07#2@51"CompileXIB Sample021_UserDefaultsViewController.xib322737539#322737540#0(0"0(0#0#108"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaultsViewController.xib8613579104#724"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaultsViewController.nib /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaultsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CGenerateDSYMFile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app.dSYM /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults
-s322737226.090087
-e322737226.244626
-r1
-xGenerateDSYMFile
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app.dSYM
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults
-lSLF07#2@154"GenerateDSYMFile build/Debug-iphonesimulator/Sample021_UserDefaults.app.dSYM build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults322737226#322737226#0(0"0(0#0#145"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults8627937536#515"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults -o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app.dSYM0#
-
-CLd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults normal i386
-s322737225.969419
-e322737226.089973
-r1
-xLd
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults
-xnormal
-xi386
-lSLF07#2@150"Link /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults322737225#322737226#0(0"0(0#0#0"8598562624#1120"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator -F/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator -filelist /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Objects-normal/i386/Sample021_UserDefaults.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Sample021_UserDefaults0#
-
-CProcessInfoPlistFile /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Info.plist Sample021_UserDefaults-Info.plist
-s322735245.951683
-e322735245.987171
-r1
-xProcessInfoPlistFile
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Info.plist
-xSample021_UserDefaults-Info.plist
-lSLF07#2@41"Process Sample021_UserDefaults-Info.plist322735245#322735245#0(0"0(0#0#101"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaults-Info.plist8616477888#611"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sample021_UserDefaults-Info.plist -genpkginfo /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app/Info.plist0#
-
-CProcessPCH /var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch.gch Sample021_UserDefaults_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s322735248.091854
-e322735251.169306
-r1
-xProcessPCH
-x/var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch.gch
-xSample021_UserDefaults_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@44"Precompile Sample021_UserDefaults_Prefix.pch322735248#322735251#0(0"0(0#0#101"/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaults_Prefix.pch8615346464#2381"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-generated-files.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-own-target-headers.hmap -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-all-target-headers.hmap -iquote /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/Sample021_UserDefaults-project-headers.hmap -F/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/include -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources/i386 -I/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Sample021_UserDefaults.build/Debug-iphonesimulator/Sample021_UserDefaults.build/DerivedSources -c /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/Sample021_UserDefaults_Prefix.pch -o /var/folders/38/381464fxF6a2kc7GTsZfiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample021_UserDefaults_Prefix-dgatzgznirpwbadsjbzpodnmkwll/Sample021_UserDefaults_Prefix.pch.gch0#
-
-CTouch /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app
-s322737540.887933
-e322737540.921678
-r1
-xTouch
-x/Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app
-lSLF07#2@128"Touch /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app322737540#322737540#0(0"0(0#0#0"8627518272#351"    cd /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wmworia/Documents/ignitemobile/sample/Sample021_UserDefaults/build/Debug-iphonesimulator/Sample021_UserDefaults.app0#
-
