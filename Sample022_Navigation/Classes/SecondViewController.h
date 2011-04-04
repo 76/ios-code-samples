@@ -13,4 +13,8 @@
 
 }
 
+-(void)rewind;
+-(void)play;
+-(void)forward;
+
 @end
