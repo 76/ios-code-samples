@@ -31,7 +31,6 @@
 
 - (void)next{
 	
-	
 	[self.navigationController pushViewController:self.svc animated:YES];
 }
 
@@ -64,13 +63,22 @@
 	
 	UIBarButtonItem *composeItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemCompose target:self action:@selector(compose)];
 	
-	[self setToolbarItems:[NSArray arrayWithObjects:bookmarkItem,spaceBarItem,composeItem,nil]];
+	UIBarButtonItem *spaceBarItem2 = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemFlexibleSpace target:self action:nil];
+	
+	UIBarButtonItem *replyItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemReply target:self action:@selector(compose)];
+	
+	
+	[self setToolbarItems:[NSArray arrayWithObjects:bookmarkItem,spaceBarItem,composeItem,spaceBarItem2,replyItem,nil]];
 	
 	[bookmarkItem release];
 	
 	[spaceBarItem release];
 	
-	[composeItem release];		
+	[composeItem release];
+	
+	[spaceBarItem2 release];
+	
+	[replyItem release];
 
 	
     [super viewDidLoad];
