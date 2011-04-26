@@ -13,4 +13,20 @@
 
 @synthesize title,link;
 
++ (NSArray *)feedsArrayFromDictionary:(NSDictionary *)dict{
+
+	NSMutableArray *array = [[NSMutableArray alloc] init];
+	NSEnumerator *keys = [dict keyEnumerator];
+	NSString *key;
+	while (key = [keys nextObject]) {
+		Feed *f = [[Feed alloc] init];
+		f.title = key;
+		f.link = (NSString *)[dict objectForKey:key];
+		[array addObject:f];
+		[f release];
+	}
+	[array autorelease];
+	return array;
+}
+
 @end

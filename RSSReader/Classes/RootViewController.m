@@ -7,7 +7,7 @@
 //
 
 #import "RootViewController.h"
-
+#import "Feed.h"
 
 @implementation RootViewController
 
@@ -26,6 +26,37 @@
 	
 }
 
+- (void)viewWillAppear:(BOOL)animated{
+	[super viewWillAppear:animated];
+	
+	NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+	NSString *filepath = [[paths objectAtIndex:0] stringByAppendingPathComponent:@"feeds.plist"];
+	
+	feeds = [NSMutableDictionary dictionaryWithContentsOfFile:filepath];
+	
+	if (feeds == nil) {
+		feeds = [NSMutableDictionary dictionary];		
+	}else {
+		
+		
+		//[feeds setValue:@"http://feeds.feedburner.com/Afrinnovatorcom" forKey:@"Afrinnovator"];
+		//[feeds setValue:@"http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml" forKey:@"NYGiants"];
+	}
+	
+	
+	storiesContainer = [[NSMutableArray alloc] init];
+	
+	
+	parser = [[Parser alloc] init];
+	parser.delegate = self;
+	
+	NSEnumerator *e = [feeds objectEnumerator];
+	NSString *link;
+	while (link = [e nextObject]) {
+		[parser parseXMLFileAtURL:link];
+	}
+}
+
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -40,23 +71,6 @@
 	self.title = @"RSS Reader";
 	
 	feeds = [[NSMutableDictionary alloc] init];
-	
-	[feeds setValue:@"http://feeds.feedburner.com/Afrinnovatorcom" forKey:@"Afrinnovator"];
-	[feeds setValue:@"http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml" forKey:@"NYGiants"];
-	
-	storiesContainer = [[NSMutableArray alloc] init];
-	
-	NSEnumerator *e = [feeds objectEnumerator];
-	
-	
-	NSString *path = @"";
-	parser = [[Parser alloc] init];
-	parser.delegate = self;
-	
-	while (path = [e nextObject]) {
-		
-		[parser parseXMLFileAtURL:path];
-	}
 	
 	cellSize = CGSizeMake([self.tableView bounds].size.width, 60);
 }

@@ -17,4 +17,6 @@
 @property (copy) NSString *title;
 @property (copy) NSString *link;
 
++ (NSArray *)feedsArrayFromDictionary:(NSDictionary *)dict;
+
 @end

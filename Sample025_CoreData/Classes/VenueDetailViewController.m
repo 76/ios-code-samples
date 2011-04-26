@@ -1,51 +1,21 @@
 //
-//  SettingsViewController.m
-//  RSSReader
+//  VenueDetailViewController.m
+//  Sample025_CoreData
 //
-//  Created by Wilfred Mworia on 4/11/11.
+//  Created by Wilfred Mworia on 4/26/11.
 //  Copyright 2011 African Pixel, Afrinnovator. All rights reserved.
 //
 
-#import "SettingsViewController.h"
+#import "VenueDetailViewController.h"
+#import "VenueNameViewController.h"
 
-@implementation SettingsViewController
+@implementation VenueDetailViewController
 
+@synthesize venue;
+@synthesize fetchedResultsController;
 
 #pragma mark -
 #pragma mark View lifecycle
-
--(void)addedNewFeed:(Feed *)feed{
-	[feeds addObject:feed];
-	
-	//save
-	NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
-	NSString *path = [[paths objectAtIndex:0] stringByAppendingPathComponent:@"feeds.plist"];
-	NSDictionary *newFeed = [NSDictionary dictionaryWithObject:feed.link forKey:feed.title];
-	
-	NSMutableDictionary *savedFeeds = [NSMutableDictionary dictionaryWithContentsOfFile:path];
-	if (savedFeeds == nil) {
-		savedFeeds = [NSMutableDictionary dictionary];
-	}
-					  
-	[savedFeeds addEntriesFromDictionary:newFeed];
-	if([savedFeeds writeToFile:path atomically:YES])
-		NSLog(@"%@",@"Saved!");
-	else {
-		NSLog(@"%@",@"Failed");
-	}
-
-
-	
-
-	[self.tableView reloadData];
-}
-
--(void)newFeed{
-	NewFeedViewController *nf = [[NewFeedViewController alloc] initWithNibName:@"NewFeedViewController" bundle:[NSBundle mainBundle]];
-	nf.delegate = self;
-	[self.navigationController pushViewController:nf animated:YES];
-	[nf release];
-}
 
 
 - (void)viewDidLoad {
@@ -54,19 +24,17 @@
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
 	
-	feeds = [[NSMutableArray alloc] init];
-	
-	UIBarButtonItem *add = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(newFeed)];
-	self.navigationItem.rightBarButtonItem = add;
-	[add release];
+	self.title = @"Venue";
 }
 
 
-/*
+
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
+	
+	[self.tableView reloadData];
 }
-*/
+
 /*
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
@@ -102,7 +70,7 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     // Return the number of rows in the section.
-    return [feeds count];
+    return 1;
 }
 
 
@@ -113,14 +81,24 @@
     
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
-        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier] autorelease];
+        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleValue1 reuseIdentifier:CellIdentifier] autorelease];
     }
     
     // Configure the cell...
-	Feed *feed = [feeds objectAtIndex:indexPath.row];
+	cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
 	
-	cell.textLabel.text = feed.title;
+	NSString *text = @"";
+	NSString *detailText = @"";
+	if (indexPath.row == 0) {
+		text = @"Name";
+		if (self.venue != nil) {
+			detailText = self.venue.venueName;
+		} 
+	}
     
+	cell.textLabel.text = text;
+	cell.detailTextLabel.text = detailText;
+	
     return cell;
 }
 
@@ -169,14 +147,16 @@
 #pragma mark Table view delegate
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    // Navigation logic may go here. Create and push another view controller.
-    /*
-    <#DetailViewController#> *detailViewController = [[<#DetailViewController#> alloc] initWithNibName:@"<#Nib name#>" bundle:nil];
-    // ...
-    // Pass the selected object to the new view controller.
-    [self.navigationController pushViewController:detailViewController animated:YES];
-    [detailViewController release];
-    */
+	if(indexPath.row == 0)
+	{
+		VenueNameViewController *vc = [[VenueNameViewController alloc] initWithNibName:@"VenueNameViewController" bundle:[NSBundle mainBundle]];
+		vc.fetchedResultsController = self.fetchedResultsController;
+		vc.venue = self.venue;
+		
+		[self.navigationController pushViewController:vc animated:YES];
+		
+		[vc release];
+	}
 }
 
 
@@ -197,6 +177,8 @@
 
 
 - (void)dealloc {
+	[venue release];
+	[fetchedResultsController release];
     [super dealloc];
 }
 
