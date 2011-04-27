@@ -255,7 +255,6 @@
 	if(indexPath.row == 4)
 	{
 		AddEventAttendeesController *vc = [[AddEventAttendeesController alloc] initWithNibName:@"AddEventAttendeesController" bundle:[NSBundle mainBundle]];
-		vc.eventFetchedResultsController = self.fetchedResultsController;
 		vc.event = self.event;
 		
 		[self.navigationController pushViewController:vc animated:YES];

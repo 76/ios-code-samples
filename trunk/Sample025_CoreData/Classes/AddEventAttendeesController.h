@@ -14,7 +14,6 @@
 
 @interface AddEventAttendeesController : UITableViewController <NSFetchedResultsControllerDelegate> {
 	Event *event;
-	NSFetchedResultsController *eventFetchedResultsController;
 	
 	NSArray *members;
 	
@@ -23,7 +22,6 @@
     NSManagedObjectContext *managedObjectContext_;
 }
 @property (nonatomic, retain) Event *event;
-@property (nonatomic, retain) NSFetchedResultsController *eventFetchedResultsController;
 
 @property (nonatomic, retain) NSArray *members;
 

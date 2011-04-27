@@ -14,7 +14,6 @@
 @implementation AddEventAttendeesController
 
 @synthesize event;
-@synthesize eventFetchedResultsController;
 @synthesize members;
 @synthesize fetchedResultsController = fetchedResultsController_;
 @synthesize managedObjectContext = managedObjectContext_;
@@ -22,7 +21,6 @@
 - (void)editMembers{
 	SelectEventAttendeesController *vc = [[SelectEventAttendeesController alloc] initWithNibName:@"SelectEventAttendeesController" bundle:[NSBundle mainBundle]];
 	vc.event = self.event;
-	vc.eventFetchedResultsController = self.eventFetchedResultsController;
 
 	[self.navigationController pushViewController:vc animated:YES];
 	[vc release];
@@ -195,7 +193,6 @@
 
 - (void)dealloc {
 	[event release];
-	[eventFetchedResultsController release];
 	[members release];
     [super dealloc];
 }

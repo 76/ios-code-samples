@@ -10,6 +10,7 @@
 #import "Venue.h"
 
 @class VenueNameViewController;
+@class VenueLocationController;
 
 @interface VenueDetailViewController : UITableViewController {
 	Venue *venue;

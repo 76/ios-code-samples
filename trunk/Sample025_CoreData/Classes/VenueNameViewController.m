@@ -25,6 +25,11 @@
     return self;
 }
 
+- (void)viewWillAppear:(BOOL)animated{
+	[super viewWillAppear:animated];
+	
+	nameField.text = self.venue.venueName;
+}
 
 /*
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
