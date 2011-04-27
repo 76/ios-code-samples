@@ -81,7 +81,13 @@
     cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
 	
 	Event *event = [self.fetchedResultsController objectAtIndexPath:indexPath];
-    cell.textLabel.text = [[event valueForKey:@"eventName"] description];
+    cell.textLabel.text = event.eventName;
+	
+	NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
+	[dateFormatter setTimeStyle:NSDateFormatterShortStyle];
+	[dateFormatter setDateStyle:NSDateFormatterMediumStyle];
+	cell.detailTextLabel.text = [dateFormatter stringFromDate:event.eventDate];
+	[dateFormatter release];
 }
 
 
@@ -147,7 +153,7 @@
     
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
-        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier] autorelease];
+        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];
     }
     
     // Configure the cell.

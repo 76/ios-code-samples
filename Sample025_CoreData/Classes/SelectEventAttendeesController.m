@@ -13,20 +13,11 @@
 @implementation SelectEventAttendeesController
 
 @synthesize event;
-@synthesize eventFetchedResultsController;
 @synthesize fetchedResultsController = fetchedResultsController_;
 @synthesize managedObjectContext = managedObjectContext_;
 
 
 - (void)saveMembers{
-	//remove all current members
-	//[self.event removeMembers:self.event.members];
-	
-	//iterate and add selected members
-	
-	//save
-	
-	//pop
 	[self.navigationController popViewControllerAnimated:YES];
 }
 
@@ -40,7 +31,7 @@
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
 	
-	UIBarButtonItem *saveButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemSave target:self action:@selector(saveMembers)];
+	UIBarButtonItem *saveButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemDone target:self action:@selector(saveMembers)];
     self.navigationItem.rightBarButtonItem = saveButton;
     [saveButton release];
 	
@@ -188,10 +179,8 @@
 		cell.accessoryType = UITableViewCellAccessoryNone;
 	}
 	
-	NSManagedObjectContext *context = [self.eventFetchedResultsController managedObjectContext];
-	
 	NSError *error = nil;
-	if (![context save:&error]) {
+	if (![self.managedObjectContext save:&error]) {
 		NSLog(@"Error: %@", [error description]);
 		abort();
 	}
@@ -268,7 +257,6 @@
 
 - (void)dealloc {
 	[event release];
-	[eventFetchedResultsController release];
     [super dealloc];
 }
 

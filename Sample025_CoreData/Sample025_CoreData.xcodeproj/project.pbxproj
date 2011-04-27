@@ -17,6 +17,11 @@
 		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
 		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
 		28D3F202112F7DC200FD0661 /* Sample025_CoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28D3F201112F7DC200FD0661 /* Sample025_CoreData.xcdatamodeld */; };
+		C95B049C13688941002607A4 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C95B049B13688941002607A4 /* CoreLocation.framework */; };
+		C95B04A01368894D002607A4 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C95B049F1368894D002607A4 /* MapKit.framework */; };
+		C95B04A6136889FD002607A4 /* VenueLocationController.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */; };
+		C95B04A7136889FD002607A4 /* VenueLocationController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C95B04A5136889FD002607A4 /* VenueLocationController.xib */; };
+		C95B04DC13688C84002607A4 /* VenueMapAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */; };
 		C9B5101E1366B071003598D8 /* EventDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */; };
 		C9B5101F1366B071003598D8 /* EventDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9B5101D1366B071003598D8 /* EventDetailViewController.xib */; };
 		C9B510671366B536003598D8 /* AddEventNameController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B510651366B536003598D8 /* AddEventNameController.m */; };
@@ -64,6 +69,13 @@
 		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Sample025_CoreData-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Sample025_CoreData-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C95B049B13688941002607A4 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		C95B049F1368894D002607A4 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		C95B04A3136889FD002607A4 /* VenueLocationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VenueLocationController.h; sourceTree = "<group>"; };
+		C95B04A4136889FD002607A4 /* VenueLocationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VenueLocationController.m; sourceTree = "<group>"; };
+		C95B04A5136889FD002607A4 /* VenueLocationController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = VenueLocationController.xib; path = Classes/VenueLocationController.xib; sourceTree = "<group>"; };
+		C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VenueMapAnnotation.h; sourceTree = "<group>"; };
+		C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VenueMapAnnotation.m; sourceTree = "<group>"; };
 		C9B5101B1366B071003598D8 /* EventDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventDetailViewController.h; sourceTree = "<group>"; };
 		C9B5101C1366B071003598D8 /* EventDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventDetailViewController.m; sourceTree = "<group>"; };
 		C9B5101D1366B071003598D8 /* EventDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = EventDetailViewController.xib; path = Classes/EventDetailViewController.xib; sourceTree = "<group>"; };
@@ -121,6 +133,8 @@
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
 				28860BE50F44EE6400985440 /* CoreData.framework in Frameworks */,
+				C95B049C13688941002607A4 /* CoreLocation.framework in Frameworks */,
+				C95B04A01368894D002607A4 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,6 +197,7 @@
 				C9B511F71366D770003598D8 /* VenuesViewController.xib */,
 				C9B512241366DB23003598D8 /* VenueDetailViewController.xib */,
 				C9B5127A1366E009003598D8 /* VenueNameViewController.xib */,
+				C95B04A5136889FD002607A4 /* VenueLocationController.xib */,
 				C9B5131113680DE1003598D8 /* MembersViewController.xib */,
 				C9B5131F13680FAF003598D8 /* MemberDetailViewController.xib */,
 				28D3F201112F7DC200FD0661 /* Sample025_CoreData.xcdatamodeld */,
@@ -200,6 +215,8 @@
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
 				28860BE40F44EE6400985440 /* CoreData.framework */,
+				C95B049B13688941002607A4 /* CoreLocation.framework */,
+				C95B049F1368894D002607A4 /* MapKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -259,6 +276,10 @@
 				C9B512231366DB23003598D8 /* VenueDetailViewController.m */,
 				C9B512781366E009003598D8 /* VenueNameViewController.h */,
 				C9B512791366E009003598D8 /* VenueNameViewController.m */,
+				C95B04A3136889FD002607A4 /* VenueLocationController.h */,
+				C95B04A4136889FD002607A4 /* VenueLocationController.m */,
+				C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */,
+				C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */,
 			);
 			name = Venue;
 			sourceTree = "<group>";
@@ -341,6 +362,7 @@
 				C9B51352136814E6003598D8 /* group.png in Resources */,
 				C9B5139A13681B0A003598D8 /* AddEventAttendeesController.xib in Resources */,
 				C9B513C51368218A003598D8 /* SelectEventAttendeesController.xib in Resources */,
+				C95B04A7136889FD002607A4 /* VenueLocationController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -370,6 +392,8 @@
 				C9B5132013680FAF003598D8 /* MemberDetailViewController.m in Sources */,
 				C9B5139913681B0A003598D8 /* AddEventAttendeesController.m in Sources */,
 				C9B513C41368218A003598D8 /* SelectEventAttendeesController.m in Sources */,
+				C95B04A6136889FD002607A4 /* VenueLocationController.m in Sources */,
+				C95B04DC13688C84002607A4 /* VenueMapAnnotation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

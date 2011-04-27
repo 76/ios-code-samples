@@ -8,6 +8,7 @@
 
 #import "VenueDetailViewController.h"
 #import "VenueNameViewController.h"
+#import "VenueLocationController.h"
 
 @implementation VenueDetailViewController
 
@@ -70,7 +71,7 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     // Return the number of rows in the section.
-    return 1;
+    return 2;
 }
 
 
@@ -95,7 +96,15 @@
 			detailText = self.venue.venueName;
 		} 
 	}
-    
+ 	if (indexPath.row == 1) {
+		text = @"Location";
+		/*
+		if (self.venue != nil) {
+			detailText = self.venue.venueName;
+		}
+		*/
+	}
+	
 	cell.textLabel.text = text;
 	cell.detailTextLabel.text = detailText;
 	
@@ -150,6 +159,16 @@
 	if(indexPath.row == 0)
 	{
 		VenueNameViewController *vc = [[VenueNameViewController alloc] initWithNibName:@"VenueNameViewController" bundle:[NSBundle mainBundle]];
+		vc.fetchedResultsController = self.fetchedResultsController;
+		vc.venue = self.venue;
+		
+		[self.navigationController pushViewController:vc animated:YES];
+		
+		[vc release];
+	}
+	if(indexPath.row == 1)
+	{
+		VenueLocationController *vc = [[VenueLocationController alloc] initWithNibName:@"VenueLocationController" bundle:[NSBundle mainBundle]];
 		vc.fetchedResultsController = self.fetchedResultsController;
 		vc.venue = self.venue;
 		
