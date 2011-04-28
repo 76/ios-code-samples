@@ -7,21 +7,21 @@
 //
 
 #import "AddEventTypeController.h"
-
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation AddEventTypeController
 
 @synthesize event;
-@synthesize fetchedResultsController;
+
 
 
 -(void)saveType{
 	self.event.eventType = [eventTypes objectAtIndex:[typePicker selectedRowInComponent:0]];;
 	
-	NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
 	
 	NSError *error = nil;
-	if (![context save:&error]) {
+	if (![appdel.managedObjectContext save:&error]) {
 		NSLog(@"Error: %@", [error description]);
 	}
 	
@@ -108,7 +108,6 @@
 
 - (void)dealloc {
 	[event release];
-	[fetchedResultsController release];
 	[eventTypes release];
     [super dealloc];
 }

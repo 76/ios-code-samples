@@ -7,11 +7,10 @@
 //
 
 #import "AddEventDateController.h"
-
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation AddEventDateController
 
-@synthesize fetchedResultsController;
 @synthesize event;
 
 - (NSString *)stringFromDate:(NSDate *)date{
@@ -30,10 +29,10 @@
 -(void)saveDate{
 	self.event.eventDate = datePicker.date;
 	
-	NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
 	
 	NSError *error = nil;
-	if (![context save:&error]) {
+	if (![appdel.managedObjectContext save:&error]) {
 		NSLog(@"Error: %@", [error description]);
 	}
 	
@@ -97,7 +96,6 @@
 
 
 - (void)dealloc {
-	[fetchedResultsController release];
 	[event release];
     [super dealloc];
 }

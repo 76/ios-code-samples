@@ -215,7 +215,6 @@
 	if(indexPath.row == 0)
 	{
 		AddEventNameController *vc = [[AddEventNameController alloc] initWithNibName:@"AddEventNameController" bundle:[NSBundle mainBundle]];
-		vc.fetchedResultsController = self.fetchedResultsController;
 		vc.event = self.event;
 		
 		[self.navigationController pushViewController:vc animated:YES];
@@ -225,7 +224,6 @@
 	if(indexPath.row == 1)
 	{
 		AddEventDateController *vc = [[AddEventDateController alloc] initWithNibName:@"AddEventDateController" bundle:[NSBundle mainBundle]];
-		vc.fetchedResultsController = self.fetchedResultsController;
 		vc.event = self.event;
 		
 		[self.navigationController pushViewController:vc animated:YES];
@@ -235,7 +233,6 @@
 	if(indexPath.row == 2)
 	{
 		AddEventTypeController *vc = [[AddEventTypeController alloc] initWithNibName:@"AddEventTypeController" bundle:[NSBundle mainBundle]];
-		vc.fetchedResultsController = self.fetchedResultsController;
 		vc.event = self.event;
 		
 		[self.navigationController pushViewController:vc animated:YES];
@@ -245,7 +242,6 @@
 	if(indexPath.row == 3)
 	{
 		AddEventVenueController *vc = [[AddEventVenueController alloc] initWithNibName:@"AddEventVenueController" bundle:[NSBundle mainBundle]];
-		vc.eventFetchedResultsController = self.fetchedResultsController;
 		vc.event = self.event;
 		
 		[self.navigationController pushViewController:vc animated:YES];

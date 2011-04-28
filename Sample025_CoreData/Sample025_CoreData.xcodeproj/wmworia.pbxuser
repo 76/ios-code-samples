@@ -195,9 +195,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1219, 5096}}";
-			sepNavSelRange = "{2510, 0}";
-			sepNavVisRange = "{1360, 1360}";
+			sepNavIntBoundsRect = "{{0, 0}, {2504, 4862}}";
+			sepNavSelRange = "{12152, 0}";
+			sepNavVisRange = "{11567, 1136}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -208,7 +208,6 @@
 			1D6058900D05DD3D006BFB54 /* Sample025_CoreData */,
 		);
 		breakpoints = (
-			C95B053613689905002607A4 /* VenueLocationController.m:97 */,
 		);
 		codeSenseManager = C9B50FB613602AE3003598D8 /* Code sense */;
 		executables = (
@@ -303,6 +302,192 @@
 			C95B053B13689907002607A4 /* PBXTextBookmark */ = C95B053B13689907002607A4 /* PBXTextBookmark */;
 			C95B053F13689945002607A4 /* PBXTextBookmark */ = C95B053F13689945002607A4 /* PBXTextBookmark */;
 			C95B054013689945002607A4 /* PBXTextBookmark */ = C95B054013689945002607A4 /* PBXTextBookmark */;
+			C95B05491369621D002607A4 /* PBXTextBookmark */ = C95B05491369621D002607A4 /* PBXTextBookmark */;
+			C95B054B1369621D002607A4 /* PBXTextBookmark */ = C95B054B1369621D002607A4 /* PBXTextBookmark */;
+			C95B054C1369621D002607A4 /* PBXTextBookmark */ = C95B054C1369621D002607A4 /* PBXTextBookmark */;
+			C95B054D1369621D002607A4 /* PBXTextBookmark */ = C95B054D1369621D002607A4 /* PBXTextBookmark */;
+			C95B054E1369621D002607A4 /* PBXTextBookmark */ = C95B054E1369621D002607A4 /* PBXTextBookmark */;
+			C95B054F1369621D002607A4 /* PBXTextBookmark */ = C95B054F1369621D002607A4 /* PBXTextBookmark */;
+			C95B05501369621D002607A4 /* PBXTextBookmark */ = C95B05501369621D002607A4 /* PBXTextBookmark */;
+			C95B05521369630C002607A4 /* PBXTextBookmark */ = C95B05521369630C002607A4 /* PBXTextBookmark */;
+			C95B05531369630C002607A4 /* PBXTextBookmark */ = C95B05531369630C002607A4 /* PBXTextBookmark */;
+			C95B05541369630C002607A4 /* PBXTextBookmark */ = C95B05541369630C002607A4 /* PBXTextBookmark */;
+			C95B05551369630C002607A4 /* PBXTextBookmark */ = C95B05551369630C002607A4 /* PBXTextBookmark */;
+			C95B055913696391002607A4 /* PBXTextBookmark */ = C95B055913696391002607A4 /* PBXTextBookmark */;
+			C95B055A13696393002607A4 /* PBXTextBookmark */ = C95B055A13696393002607A4 /* PBXTextBookmark */;
+			C95B055B13696393002607A4 /* PBXTextBookmark */ = C95B055B13696393002607A4 /* PBXTextBookmark */;
+			C95B055D13696393002607A4 /* PBXTextBookmark */ = C95B055D13696393002607A4 /* PBXTextBookmark */;
+			C95B055E13696393002607A4 /* PBXTextBookmark */ = C95B055E13696393002607A4 /* PBXTextBookmark */;
+			C95B0568136963EE002607A4 /* PBXTextBookmark */ = C95B0568136963EE002607A4 /* PBXTextBookmark */;
+			C95B057B13696475002607A4 /* PBXTextBookmark */ = C95B057B13696475002607A4 /* PBXTextBookmark */;
+			C95B05AD13696691002607A4 /* PBXTextBookmark */ = C95B05AD13696691002607A4 /* PBXTextBookmark */;
+			C95B05AE13696691002607A4 /* PBXTextBookmark */ = C95B05AE13696691002607A4 /* PBXTextBookmark */;
+			C95B05AF13696691002607A4 /* PBXTextBookmark */ = C95B05AF13696691002607A4 /* PBXTextBookmark */;
+			C95B05B013696691002607A4 /* PBXTextBookmark */ = C95B05B013696691002607A4 /* PBXTextBookmark */;
+			C95B05B5136966B8002607A4 /* PBXTextBookmark */ = C95B05B5136966B8002607A4 /* PBXTextBookmark */;
+			C95B05B8136966BF002607A4 /* PBXTextBookmark */ = C95B05B8136966BF002607A4 /* PBXTextBookmark */;
+			C95B05BF13696746002607A4 /* PBXTextBookmark */ = C95B05BF13696746002607A4 /* PBXTextBookmark */;
+			C95B05C013696746002607A4 /* PBXTextBookmark */ = C95B05C013696746002607A4 /* PBXTextBookmark */;
+			C95B05C113696746002607A4 /* PBXTextBookmark */ = C95B05C113696746002607A4 /* PBXTextBookmark */;
+			C95B05C213696746002607A4 /* PBXTextBookmark */ = C95B05C213696746002607A4 /* PBXTextBookmark */;
+			C95B05CA13696847002607A4 /* PBXTextBookmark */ = C95B05CA13696847002607A4 /* PBXTextBookmark */;
+			C95B05CB13696847002607A4 /* PBXTextBookmark */ = C95B05CB13696847002607A4 /* PBXTextBookmark */;
+			C95B05CF13696979002607A4 /* PBXTextBookmark */ = C95B05CF13696979002607A4 /* PBXTextBookmark */;
+			C95B05D013696979002607A4 /* PBXTextBookmark */ = C95B05D013696979002607A4 /* PBXTextBookmark */;
+			C95B05D113696979002607A4 /* PBXTextBookmark */ = C95B05D113696979002607A4 /* PBXTextBookmark */;
+			C95B060513696CA5002607A4 /* PBXTextBookmark */ = C95B060513696CA5002607A4 /* PBXTextBookmark */;
+			C95B060613696CA5002607A4 /* PBXTextBookmark */ = C95B060613696CA5002607A4 /* PBXTextBookmark */;
+			C95B060713696CA5002607A4 /* PBXTextBookmark */ = C95B060713696CA5002607A4 /* PBXTextBookmark */;
+			C95B061213696D01002607A4 /* PBXTextBookmark */ = C95B061213696D01002607A4 /* PBXTextBookmark */;
+			C95B061313696D01002607A4 /* PBXTextBookmark */ = C95B061313696D01002607A4 /* PBXTextBookmark */;
+			C95B061413696D01002607A4 /* PBXTextBookmark */ = C95B061413696D01002607A4 /* PBXTextBookmark */;
+			C95B062313696E4F002607A4 /* PBXTextBookmark */ = C95B062313696E4F002607A4 /* PBXTextBookmark */;
+			C95B062413696E4F002607A4 /* PBXTextBookmark */ = C95B062413696E4F002607A4 /* PBXTextBookmark */;
+			C95B063413696F07002607A4 /* PBXTextBookmark */ = C95B063413696F07002607A4 /* PBXTextBookmark */;
+			C95B063E13696FA8002607A4 /* PBXTextBookmark */ = C95B063E13696FA8002607A4 /* PBXTextBookmark */;
+			C95B064213696FC3002607A4 /* PBXTextBookmark */ = C95B064213696FC3002607A4 /* PBXTextBookmark */;
+			C95B064313696FC3002607A4 /* PBXTextBookmark */ = C95B064313696FC3002607A4 /* PBXTextBookmark */;
+			C95B064613696FF4002607A4 /* PBXTextBookmark */ = C95B064613696FF4002607A4 /* PBXTextBookmark */;
+			C95B06491369710F002607A4 /* PBXTextBookmark */ = C95B06491369710F002607A4 /* PBXTextBookmark */;
+			C95B064A1369710F002607A4 /* PBXTextBookmark */ = C95B064A1369710F002607A4 /* PBXTextBookmark */;
+			C95B064B1369710F002607A4 /* PBXTextBookmark */ = C95B064B1369710F002607A4 /* PBXTextBookmark */;
+			C95B064C1369710F002607A4 /* PBXTextBookmark */ = C95B064C1369710F002607A4 /* PBXTextBookmark */;
+			C95B064F13697143002607A4 /* PBXTextBookmark */ = C95B064F13697143002607A4 /* PBXTextBookmark */;
+			C95B06501369715D002607A4 /* PBXTextBookmark */ = C95B06501369715D002607A4 /* PBXTextBookmark */;
+			C95B065C136971E3002607A4 /* PBXTextBookmark */ = C95B065C136971E3002607A4 /* PBXTextBookmark */;
+			C95B065D136971E3002607A4 /* PBXTextBookmark */ = C95B065D136971E3002607A4 /* PBXTextBookmark */;
+			C95B065E136971E3002607A4 /* PBXTextBookmark */ = C95B065E136971E3002607A4 /* PBXTextBookmark */;
+			C95B065F136971E3002607A4 /* PBXTextBookmark */ = C95B065F136971E3002607A4 /* PBXTextBookmark */;
+			C95B0660136971E3002607A4 /* PBXTextBookmark */ = C95B0660136971E3002607A4 /* PBXTextBookmark */;
+			C95B0662136971E3002607A4 /* PBXTextBookmark */ = C95B0662136971E3002607A4 /* PBXTextBookmark */;
+			C95B0663136971E3002607A4 /* PBXTextBookmark */ = C95B0663136971E3002607A4 /* PBXTextBookmark */;
+			C95B0664136971E3002607A4 /* PBXTextBookmark */ = C95B0664136971E3002607A4 /* PBXTextBookmark */;
+			C95B066813697207002607A4 /* PBXTextBookmark */ = C95B066813697207002607A4 /* PBXTextBookmark */;
+			C95B067013697236002607A4 /* PBXTextBookmark */ = C95B067013697236002607A4 /* PBXTextBookmark */;
+			C95B067113697236002607A4 /* PBXTextBookmark */ = C95B067113697236002607A4 /* PBXTextBookmark */;
+			C95B067213697236002607A4 /* PBXTextBookmark */ = C95B067213697236002607A4 /* PBXTextBookmark */;
+			C95B067613697261002607A4 /* PBXTextBookmark */ = C95B067613697261002607A4 /* PBXTextBookmark */;
+			C95B067713697261002607A4 /* PBXTextBookmark */ = C95B067713697261002607A4 /* PBXTextBookmark */;
+			C95B067813697299002607A4 /* PBXTextBookmark */ = C95B067813697299002607A4 /* PBXTextBookmark */;
+			C95B067B136972EE002607A4 /* PBXTextBookmark */ = C95B067B136972EE002607A4 /* PBXTextBookmark */;
+			C95B067C136972EE002607A4 /* PBXTextBookmark */ = C95B067C136972EE002607A4 /* PBXTextBookmark */;
+			C95B067E136972EE002607A4 /* PBXTextBookmark */ = C95B067E136972EE002607A4 /* PBXTextBookmark */;
+			C95B067F136972EE002607A4 /* PBXTextBookmark */ = C95B067F136972EE002607A4 /* PBXTextBookmark */;
+			C95B068B13697318002607A4 /* PBXTextBookmark */ = C95B068B13697318002607A4 /* PBXTextBookmark */;
+			C95B069913697427002607A4 /* PBXTextBookmark */ = C95B069913697427002607A4 /* PBXTextBookmark */;
+			C95B069A136974D0002607A4 /* PBXTextBookmark */ = C95B069A136974D0002607A4 /* PBXTextBookmark */;
+			C95B069B136974D0002607A4 /* PBXTextBookmark */ = C95B069B136974D0002607A4 /* PBXTextBookmark */;
+			C95B069C136974D0002607A4 /* PBXTextBookmark */ = C95B069C136974D0002607A4 /* PBXTextBookmark */;
+			C95B06A913697748002607A4 /* PBXTextBookmark */ = C95B06A913697748002607A4 /* PBXTextBookmark */;
+			C95B06AA13697748002607A4 /* PBXTextBookmark */ = C95B06AA13697748002607A4 /* PBXTextBookmark */;
+			C95B06AB13697748002607A4 /* PBXTextBookmark */ = C95B06AB13697748002607A4 /* PBXTextBookmark */;
+			C95B06AC13697748002607A4 /* PBXTextBookmark */ = C95B06AC13697748002607A4 /* PBXTextBookmark */;
+			C95B06AD13697748002607A4 /* PBXTextBookmark */ = C95B06AD13697748002607A4 /* PBXTextBookmark */;
+			C95B06AE13697748002607A4 /* PBXTextBookmark */ = C95B06AE13697748002607A4 /* PBXTextBookmark */;
+			C95B06AF13697748002607A4 /* PBXTextBookmark */ = C95B06AF13697748002607A4 /* PBXTextBookmark */;
+			C95B06B21369776E002607A4 /* PBXTextBookmark */ = C95B06B21369776E002607A4 /* PBXTextBookmark */;
+			C95B06B513697778002607A4 /* PBXTextBookmark */ = C95B06B513697778002607A4 /* PBXTextBookmark */;
+			C95B06C013697834002607A4 /* PBXTextBookmark */ = C95B06C013697834002607A4 /* PBXTextBookmark */;
+			C95B06C113697834002607A4 /* PBXTextBookmark */ = C95B06C113697834002607A4 /* PBXTextBookmark */;
+			C95B06C213697834002607A4 /* PBXTextBookmark */ = C95B06C213697834002607A4 /* PBXTextBookmark */;
+			C95B06C313697834002607A4 /* PBXTextBookmark */ = C95B06C313697834002607A4 /* PBXTextBookmark */;
+			C95B06C513697843002607A4 /* PBXTextBookmark */ = C95B06C513697843002607A4 /* PBXTextBookmark */;
+			C95B06C613697843002607A4 /* PBXTextBookmark */ = C95B06C613697843002607A4 /* PBXTextBookmark */;
+			C95B06C713697843002607A4 /* PBXTextBookmark */ = C95B06C713697843002607A4 /* PBXTextBookmark */;
+			C95B06C913697871002607A4 /* PBXTextBookmark */ = C95B06C913697871002607A4 /* PBXTextBookmark */;
+			C95B06CA136978C1002607A4 /* PBXTextBookmark */ = C95B06CA136978C1002607A4 /* PBXTextBookmark */;
+			C95B06CF136978DC002607A4 /* PBXTextBookmark */ = C95B06CF136978DC002607A4 /* PBXTextBookmark */;
+			C95B06D0136978DC002607A4 /* PBXTextBookmark */ = C95B06D0136978DC002607A4 /* PBXTextBookmark */;
+			C95B06D1136978DC002607A4 /* PBXTextBookmark */ = C95B06D1136978DC002607A4 /* PBXTextBookmark */;
+			C95B06D2136978DC002607A4 /* PBXTextBookmark */ = C95B06D2136978DC002607A4 /* PBXTextBookmark */;
+			C95B06D3136978DC002607A4 /* PBXTextBookmark */ = C95B06D3136978DC002607A4 /* PBXTextBookmark */;
+			C95B06D713697905002607A4 /* PBXTextBookmark */ = C95B06D713697905002607A4 /* PBXTextBookmark */;
+			C95B06D813697905002607A4 /* PBXTextBookmark */ = C95B06D813697905002607A4 /* PBXTextBookmark */;
+			C95B06F61369BADA002607A4 /* PBXTextBookmark */ = C95B06F61369BADA002607A4 /* PBXTextBookmark */;
+			C95B06F71369BADA002607A4 /* XCBuildMessageTextBookmark */ = C95B06F71369BADA002607A4 /* XCBuildMessageTextBookmark */;
+			C95B06F81369BADA002607A4 /* PBXTextBookmark */ = C95B06F81369BADA002607A4 /* PBXTextBookmark */;
+			C95B06FB1369BB0A002607A4 /* XCBuildMessageTextBookmark */ = C95B06FB1369BB0A002607A4 /* XCBuildMessageTextBookmark */;
+			C95B06FC1369BB0A002607A4 /* PBXTextBookmark */ = C95B06FC1369BB0A002607A4 /* PBXTextBookmark */;
+			C95B07031369BC70002607A4 /* PBXTextBookmark */ = C95B07031369BC70002607A4 /* PBXTextBookmark */;
+			C95B07041369BC70002607A4 /* XCBuildMessageTextBookmark */ = C95B07041369BC70002607A4 /* XCBuildMessageTextBookmark */;
+			C95B07051369BC70002607A4 /* PBXTextBookmark */ = C95B07051369BC70002607A4 /* PBXTextBookmark */;
+			C95B07081369BC79002607A4 /* XCBuildMessageTextBookmark */ = C95B07081369BC79002607A4 /* XCBuildMessageTextBookmark */;
+			C95B07091369BC79002607A4 /* PBXTextBookmark */ = C95B07091369BC79002607A4 /* PBXTextBookmark */;
+			C95B070C1369BC7B002607A4 /* PBXTextBookmark */ = C95B070C1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B070D1369BC7B002607A4 /* PBXTextBookmark */ = C95B070D1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B070E1369BC7B002607A4 /* PBXTextBookmark */ = C95B070E1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B070F1369BC7B002607A4 /* PBXTextBookmark */ = C95B070F1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07101369BC7B002607A4 /* PBXTextBookmark */ = C95B07101369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07111369BC7B002607A4 /* PBXTextBookmark */ = C95B07111369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07121369BC7B002607A4 /* PBXTextBookmark */ = C95B07121369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07131369BC7B002607A4 /* PBXTextBookmark */ = C95B07131369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07141369BC7B002607A4 /* PBXTextBookmark */ = C95B07141369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07151369BC7B002607A4 /* PBXTextBookmark */ = C95B07151369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07161369BC7B002607A4 /* PBXTextBookmark */ = C95B07161369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07171369BC7B002607A4 /* PBXTextBookmark */ = C95B07171369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07181369BC7B002607A4 /* PBXTextBookmark */ = C95B07181369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07191369BC7B002607A4 /* PBXTextBookmark */ = C95B07191369BC7B002607A4 /* PBXTextBookmark */;
+			C95B071A1369BC7B002607A4 /* PBXTextBookmark */ = C95B071A1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B071B1369BC7B002607A4 /* PBXTextBookmark */ = C95B071B1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B071C1369BC7B002607A4 /* PBXTextBookmark */ = C95B071C1369BC7B002607A4 /* PBXTextBookmark */;
+			C95B07221369BD79002607A4 /* PBXTextBookmark */ = C95B07221369BD79002607A4 /* PBXTextBookmark */;
+			C95B07231369BD79002607A4 /* XCBuildMessageTextBookmark */ = C95B07231369BD79002607A4 /* XCBuildMessageTextBookmark */;
+			C95B07241369BD79002607A4 /* PBXTextBookmark */ = C95B07241369BD79002607A4 /* PBXTextBookmark */;
+			C95B07291369BD86002607A4 /* XCBuildMessageTextBookmark */ = C95B07291369BD86002607A4 /* XCBuildMessageTextBookmark */;
+			C95B072A1369BD86002607A4 /* PBXTextBookmark */ = C95B072A1369BD86002607A4 /* PBXTextBookmark */;
+			C95B072F1369C04C002607A4 /* PBXTextBookmark */ = C95B072F1369C04C002607A4 /* PBXTextBookmark */;
+			C95B07301369C04C002607A4 /* PBXTextBookmark */ = C95B07301369C04C002607A4 /* PBXTextBookmark */;
+			C95B07311369C04C002607A4 /* PBXTextBookmark */ = C95B07311369C04C002607A4 /* PBXTextBookmark */;
+			C95B07321369C04C002607A4 /* PBXTextBookmark */ = C95B07321369C04C002607A4 /* PBXTextBookmark */;
+			C95B07331369C04C002607A4 /* PBXTextBookmark */ = C95B07331369C04C002607A4 /* PBXTextBookmark */;
+			C95B07341369C04C002607A4 /* PBXTextBookmark */ = C95B07341369C04C002607A4 /* PBXTextBookmark */;
+			C95B07351369C04C002607A4 /* PBXTextBookmark */ = C95B07351369C04C002607A4 /* PBXTextBookmark */;
+			C95B07361369C04C002607A4 /* PBXTextBookmark */ = C95B07361369C04C002607A4 /* PBXTextBookmark */;
+			C95B07371369C04C002607A4 /* PBXTextBookmark */ = C95B07371369C04C002607A4 /* PBXTextBookmark */;
+			C95B07381369C04C002607A4 /* PBXTextBookmark */ = C95B07381369C04C002607A4 /* PBXTextBookmark */;
+			C95B07391369C04C002607A4 /* PBXTextBookmark */ = C95B07391369C04C002607A4 /* PBXTextBookmark */;
+			C95B073A1369C04C002607A4 /* PBXTextBookmark */ = C95B073A1369C04C002607A4 /* PBXTextBookmark */;
+			C95B073B1369C04C002607A4 /* PBXTextBookmark */ = C95B073B1369C04C002607A4 /* PBXTextBookmark */;
+			C95B073C1369C04C002607A4 /* PBXTextBookmark */ = C95B073C1369C04C002607A4 /* PBXTextBookmark */;
+			C95B073D1369C04C002607A4 /* PBXTextBookmark */ = C95B073D1369C04C002607A4 /* PBXTextBookmark */;
+			C95B073E1369C04C002607A4 /* PBXTextBookmark */ = C95B073E1369C04C002607A4 /* PBXTextBookmark */;
+			C95B073F1369C04C002607A4 /* PBXTextBookmark */ = C95B073F1369C04C002607A4 /* PBXTextBookmark */;
+			C95B07401369C04C002607A4 /* PBXTextBookmark */ = C95B07401369C04C002607A4 /* PBXTextBookmark */;
+			C95B07411369C04C002607A4 /* PBXTextBookmark */ = C95B07411369C04C002607A4 /* PBXTextBookmark */;
+			C95B07421369C04C002607A4 /* PBXTextBookmark */ = C95B07421369C04C002607A4 /* PBXTextBookmark */;
+			C95B07431369C04C002607A4 /* PBXTextBookmark */ = C95B07431369C04C002607A4 /* PBXTextBookmark */;
+			C95B07441369C04C002607A4 /* PBXTextBookmark */ = C95B07441369C04C002607A4 /* PBXTextBookmark */;
+			C95B07451369C04C002607A4 /* PBXTextBookmark */ = C95B07451369C04C002607A4 /* PBXTextBookmark */;
+			C95B07461369C04C002607A4 /* PBXTextBookmark */ = C95B07461369C04C002607A4 /* PBXTextBookmark */;
+			C95B07471369C04C002607A4 /* PBXTextBookmark */ = C95B07471369C04C002607A4 /* PBXTextBookmark */;
+			C95B07481369C04C002607A4 /* PBXTextBookmark */ = C95B07481369C04C002607A4 /* PBXTextBookmark */;
+			C95B07491369C04C002607A4 /* PBXTextBookmark */ = C95B07491369C04C002607A4 /* PBXTextBookmark */;
+			C95B074A1369C04C002607A4 /* PBXTextBookmark */ = C95B074A1369C04C002607A4 /* PBXTextBookmark */;
+			C95B074C1369C0DC002607A4 /* PBXTextBookmark */ = C95B074C1369C0DC002607A4 /* PBXTextBookmark */;
+			C95B07511369C22F002607A4 /* PBXTextBookmark */ = C95B07511369C22F002607A4 /* PBXTextBookmark */;
+			C95B07521369C22F002607A4 /* PBXTextBookmark */ = C95B07521369C22F002607A4 /* PBXTextBookmark */;
+			C95B07531369C22F002607A4 /* PBXTextBookmark */ = C95B07531369C22F002607A4 /* PBXTextBookmark */;
+			C95B075B1369C4B5002607A4 /* PBXTextBookmark */ = C95B075B1369C4B5002607A4 /* PBXTextBookmark */;
+			C95B075C1369C4B5002607A4 /* PBXTextBookmark */ = C95B075C1369C4B5002607A4 /* PBXTextBookmark */;
+			C95B075D1369C4B5002607A4 /* PBXTextBookmark */ = C95B075D1369C4B5002607A4 /* PBXTextBookmark */;
+			C95B075E1369C4B5002607A4 /* PBXTextBookmark */ = C95B075E1369C4B5002607A4 /* PBXTextBookmark */;
+			C95B075F1369C4B5002607A4 /* PBXTextBookmark */ = C95B075F1369C4B5002607A4 /* PBXTextBookmark */;
+			C95B07601369C4B5002607A4 /* PBXTextBookmark */ = C95B07601369C4B5002607A4 /* PBXTextBookmark */;
+			C95B07611369C4B5002607A4 /* PBXTextBookmark */ = C95B07611369C4B5002607A4 /* PBXTextBookmark */;
+			C95B07621369C4B5002607A4 /* PBXTextBookmark */ = C95B07621369C4B5002607A4 /* PBXTextBookmark */;
+			C95B077B1369C6F3002607A4 /* PBXTextBookmark */ = C95B077B1369C6F3002607A4 /* PBXTextBookmark */;
+			C95B077C1369C6F3002607A4 /* PBXTextBookmark */ = C95B077C1369C6F3002607A4 /* PBXTextBookmark */;
+			C95B077D1369C6F3002607A4 /* PBXTextBookmark */ = C95B077D1369C6F3002607A4 /* PBXTextBookmark */;
+			C95B077E1369C6F3002607A4 /* PBXTextBookmark */ = C95B077E1369C6F3002607A4 /* PBXTextBookmark */;
+			C95B077F1369C6F3002607A4 /* PBXTextBookmark */ = C95B077F1369C6F3002607A4 /* PBXTextBookmark */;
+			C95B07801369C6F3002607A4 /* PBXTextBookmark */ = C95B07801369C6F3002607A4 /* PBXTextBookmark */;
+			C95B07811369C6F3002607A4 /* PBXTextBookmark */ = C95B07811369C6F3002607A4 /* PBXTextBookmark */;
+			C95B07821369C6F3002607A4 /* PBXTextBookmark */ = C95B07821369C6F3002607A4 /* PBXTextBookmark */;
+			C95B07831369C6F3002607A4 /* PBXTextBookmark */ = C95B07831369C6F3002607A4 /* PBXTextBookmark */;
+			C95B07841369C6F3002607A4 /* PBXTextBookmark */ = C95B07841369C6F3002607A4 /* PBXTextBookmark */;
+			C95B078A1369C73C002607A4 /* PBXTextBookmark */ = C95B078A1369C73C002607A4 /* PBXTextBookmark */;
+			C95B07901369C7CB002607A4 /* PBXTextBookmark */ = C95B07901369C7CB002607A4 /* PBXTextBookmark */;
+			C95B07911369C7CB002607A4 /* PBXTextBookmark */ = C95B07911369C7CB002607A4 /* PBXTextBookmark */;
 			C9B50FFB1366ABC6003598D8 = C9B50FFB1366ABC6003598D8 /* PBXTextBookmark */;
 			C9B50FFC1366ABC6003598D8 = C9B50FFC1366ABC6003598D8 /* PBXTextBookmark */;
 			C9B50FFD1366ABC6003598D8 = C9B50FFD1366ABC6003598D8 /* XDModelBookmark */;
@@ -861,7 +1046,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 89;
+		rLoc = 93;
 		rType = 1;
 	};
 	C95B0478136888CB002607A4 /* PBXTextBookmark */ = {
@@ -869,7 +1054,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 85";
 		rLen = 0;
-		rLoc = 2510;
+		rLoc = 2699;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 1135;
@@ -909,7 +1094,7 @@
 		fRef = C9B5139613681B0A003598D8 /* AddEventAttendeesController.h */;
 		name = "AddEventAttendeesController.h: 24";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 521;
 		rType = 0;
 		vrLen = 818;
 		vrLoc = 0;
@@ -939,7 +1124,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 85";
 		rLen = 0;
-		rLoc = 2510;
+		rLoc = 2699;
 		rType = 0;
 		vrLen = 1410;
 		vrLoc = 1556;
@@ -949,23 +1134,23 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 84";
 		rLen = 0;
-		rLoc = 2203;
+		rLoc = 2392;
 		rType = 0;
 		vrLen = 1481;
 		vrLoc = 1637;
 	};
 	C95B04A3136889FD002607A4 /* VenueLocationController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
-			sepNavSelRange = "{442, 17}";
-			sepNavVisRange = "{0, 813}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 624}}";
+			sepNavSelRange = "{798, 0}";
+			sepNavVisRange = "{33, 1247}";
 		};
 	};
 	C95B04A4136889FD002607A4 /* VenueLocationController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 2002}}";
-			sepNavSelRange = "{1507, 0}";
-			sepNavVisRange = "{1080, 1132}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 5018}}";
+			sepNavSelRange = "{1321, 0}";
+			sepNavVisRange = "{399, 1612}";
 		};
 	};
 	C95B04A913688A0B002607A4 /* PBXTextBookmark */ = {
@@ -973,7 +1158,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 103";
 		rLen = 0;
-		rLoc = 2984;
+		rLoc = 3100;
 		rType = 0;
 		vrLen = 1597;
 		vrLoc = 1643;
@@ -983,7 +1168,7 @@
 		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
 		name = "VenueNameViewController.m: 31";
 		rLen = 0;
-		rLoc = 848;
+		rLoc = 851;
 		rType = 0;
 		vrLen = 1160;
 		vrLoc = 173;
@@ -993,7 +1178,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 18";
 		rLen = 0;
-		rLoc = 422;
+		rLoc = 384;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 0;
@@ -1003,7 +1188,7 @@
 		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
 		name = "VenueNameViewController.h: 14";
 		rLen = 0;
-		rLoc = 360;
+		rLoc = 309;
 		rType = 0;
 		vrLen = 535;
 		vrLoc = 0;
@@ -1033,7 +1218,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 11";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 328;
 		vrLoc = 0;
@@ -1043,7 +1228,7 @@
 		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
 		name = "VenueNameViewController.m: 31";
 		rLen = 0;
-		rLoc = 848;
+		rLoc = 851;
 		rType = 0;
 		vrLen = 1160;
 		vrLoc = 173;
@@ -1053,7 +1238,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 11";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 328;
 		vrLoc = 0;
@@ -1063,7 +1248,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 14";
 		rLen = 0;
-		rLoc = 550;
+		rLoc = 856;
 		rType = 0;
 		vrLen = 329;
 		vrLoc = 0;
@@ -1073,7 +1258,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 14";
 		rLen = 0;
-		rLoc = 550;
+		rLoc = 856;
 		rType = 0;
 		vrLen = 377;
 		vrLoc = 0;
@@ -1083,7 +1268,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 16";
 		rLen = 0;
-		rLoc = 564;
+		rLoc = 933;
 		rType = 0;
 		vrLen = 435;
 		vrLoc = 0;
@@ -1103,7 +1288,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 20";
 		rLen = 0;
-		rLoc = 784;
+		rLoc = 1402;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -1111,13 +1296,13 @@
 	C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
-			sepNavSelRange = "{535, 0}";
+			sepNavSelRange = "{463, 0}";
 			sepNavVisRange = "{0, 541}";
 		};
 	};
 	C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
 			sepNavSelRange = "{333, 0}";
 			sepNavVisRange = "{0, 339}";
 		};
@@ -1157,7 +1342,7 @@
 		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
 		name = "VenueNameViewController.h: 14";
 		rLen = 0;
-		rLoc = 334;
+		rLoc = 309;
 		rType = 0;
 		vrLen = 535;
 		vrLoc = 0;
@@ -1167,7 +1352,7 @@
 		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
 		name = "VenueDetailViewController.h: 21";
 		rLen = 0;
-		rLoc = 545;
+		rLoc = 407;
 		rType = 0;
 		vrLen = 551;
 		vrLoc = 0;
@@ -1177,7 +1362,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 98";
 		rLen = 0;
-		rLoc = 4310;
+		rLoc = 10871;
 		rType = 0;
 		vrLen = 1250;
 		vrLoc = 282;
@@ -1187,7 +1372,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 179";
 		rLen = 0;
-		rLoc = 4834;
+		rLoc = 4670;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 4397;
@@ -1197,7 +1382,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 24";
 		rLen = 0;
-		rLoc = 787;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 680;
 		vrLoc = 0;
@@ -1207,7 +1392,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 23";
 		rLen = 0;
-		rLoc = 723;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 681;
 		vrLoc = 0;
@@ -1245,9 +1430,9 @@
 		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1097, 3393}}";
-			sepNavSelRange = "{1398, 26}";
-			sepNavVisRange = "{878, 941}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 3562}}";
+			sepNavSelRange = "{758, 0}";
+			sepNavVisRange = "{0, 1027}";
 		};
 	};
 	C95B0512136893C1002607A4 /* PBXTextBookmark */ = {
@@ -1265,7 +1450,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 23";
 		rLen = 0;
-		rLoc = 723;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 681;
 		vrLoc = 0;
@@ -1470,7 +1655,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 45";
 		rLen = 0;
-		rLoc = 1983;
+		rLoc = 3224;
 		rType = 0;
 		vrLen = 1128;
 		vrLoc = 695;
@@ -1480,7 +1665,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 43";
 		rLen = 0;
-		rLoc = 1262;
+		rLoc = 2425;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 763;
@@ -1490,7 +1675,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 45";
 		rLen = 0;
-		rLoc = 1443;
+		rLoc = 2606;
 		rType = 0;
 		vrLen = 1251;
 		vrLoc = 928;
@@ -1500,7 +1685,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 23";
 		rLen = 0;
-		rLoc = 723;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 681;
 		vrLoc = 0;
@@ -1510,7 +1695,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 18";
 		rLen = 0;
-		rLoc = 534;
+		rLoc = 840;
 		rType = 0;
 		vrLen = 681;
 		vrLoc = 0;
@@ -1520,7 +1705,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 19";
 		rLen = 0;
-		rLoc = 479;
+		rLoc = 840;
 		rType = 0;
 		vrLen = 745;
 		vrLoc = 0;
@@ -1530,7 +1715,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 24";
 		rLen = 0;
-		rLoc = 554;
+		rLoc = 923;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -1540,7 +1725,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 45";
 		rLen = 0;
-		rLoc = 1443;
+		rLoc = 2606;
 		rType = 0;
 		vrLen = 1148;
 		vrLoc = 928;
@@ -1550,7 +1735,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 18";
 		rLen = 0;
-		rLoc = 391;
+		rLoc = 1009;
 		rType = 0;
 		vrLen = 1066;
 		vrLoc = 0;
@@ -1560,7 +1745,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 28";
 		rLen = 0;
-		rLoc = 908;
+		rLoc = 2010;
 		rType = 0;
 		vrLen = 1152;
 		vrLoc = 0;
@@ -1570,7 +1755,7 @@
 		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
 		name = "VenueLocationController.h: 16";
 		rLen = 25;
-		rLoc = 382;
+		rLoc = 436;
 		rType = 0;
 		vrLen = 813;
 		vrLoc = 0;
@@ -1580,7 +1765,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 94";
 		rLen = 0;
-		rLoc = 2754;
+		rLoc = 9165;
 		rType = 0;
 		vrLen = 1124;
 		vrLoc = 1938;
@@ -1590,7 +1775,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 50";
 		rLen = 0;
-		rLoc = 1434;
+		rLoc = 2597;
 		rType = 0;
 		vrLen = 1099;
 		vrLoc = 935;
@@ -1620,7 +1805,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 97";
 		rLen = 10;
-		rLoc = 2887;
+		rLoc = 9298;
 		rType = 0;
 		vrLen = 1120;
 		vrLoc = 2527;
@@ -1630,35 +1815,17 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 102";
 		rLen = 0;
-		rLoc = 3081;
+		rLoc = 9492;
 		rType = 0;
 		vrLen = 1096;
 		vrLoc = 2574;
-	};
-	C95B053613689905002607A4 /* VenueLocationController.m:97 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
-		functionName = "-locationManager:didUpdateToLocation:fromLocation:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 97;
-		location = Sample025_CoreData;
-		modificationTime = 325622092.043313;
-		originalNumberOfMultipleMatches = 1;
-		state = 1;
 	};
 	C95B053A13689907002607A4 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 102";
 		rLen = 0;
-		rLoc = 3081;
+		rLoc = 9492;
 		rType = 0;
 		vrLen = 1099;
 		vrLoc = 2574;
@@ -1668,7 +1835,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 102";
 		rLen = 0;
-		rLoc = 3081;
+		rLoc = 9492;
 		rType = 0;
 		vrLen = 1037;
 		vrLoc = 2636;
@@ -1678,7 +1845,7 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 102";
 		rLen = 0;
-		rLoc = 3081;
+		rLoc = 9492;
 		rType = 0;
 		vrLen = 1069;
 		vrLoc = 934;
@@ -1688,10 +1855,1940 @@
 		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
 		name = "VenueLocationController.m: 102";
 		rLen = 0;
-		rLoc = 3081;
+		rLoc = 9492;
 		rType = 0;
 		vrLen = 1069;
 		vrLoc = 934;
+	};
+	C95B05491369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B054A1369621D002607A4 /* CLLocationManager.h */;
+		name = "CLLocationManager.h: 59";
+		rLen = 40;
+		rLoc = 1796;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 7809;
+	};
+	C95B054A1369621D002607A4 /* CLLocationManager.h */ = {
+		isa = PBXFileReference;
+		name = CLLocationManager.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h;
+		sourceTree = "<absolute>";
+	};
+	C95B054B1369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 18";
+		rLen = 17;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 0;
+	};
+	C95B054C1369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
+		name = "VenueNameViewController.m: 71";
+		rLen = 0;
+		rLoc = 1753;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 731;
+	};
+	C95B054D1369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */;
+		name = "VenueMapAnnotation.h: 17";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	C95B054E1369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 99";
+		rLen = 0;
+		rLoc = 9346;
+		rType = 0;
+		vrLen = 1251;
+		vrLoc = 2716;
+	};
+	C95B054F1369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */;
+		name = "VenueMapAnnotation.m: 21";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C95B05501369621D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */;
+		name = "VenueMapAnnotation.m: 21";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C95B05521369630C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */;
+		name = "VenueMapAnnotation.m: 21";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C95B05531369630C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 25";
+		rLen = 0;
+		rLoc = 921;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	C95B05541369630C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 15";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 1202;
+		vrLoc = 0;
+	};
+	C95B05551369630C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 153";
+		rLen = 0;
+		rLoc = 11007;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 3513;
+	};
+	C95B055913696391002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 1135;
+	};
+	C95B055A13696393002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 134";
+		rLen = 0;
+		rLoc = 10527;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 3513;
+	};
+	C95B055B13696393002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B055C13696393002607A4 /* UISearchBar.h */;
+		name = "UISearchBar.h: 65";
+		rLen = 0;
+		rLoc = 3039;
+		rType = 0;
+		vrLen = 3590;
+		vrLoc = 1924;
+	};
+	C95B055C13696393002607A4 /* UISearchBar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISearchBar.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISearchBar.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1521}}";
+			sepNavSelRange = "{354, 62}";
+			sepNavVisRange = "{0, 1262}";
+		};
+	};
+	C95B055D13696393002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 16";
+		rLen = 19;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	C95B055E13696393002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 16";
+		rLen = 19;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	C95B0568136963EE002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 18";
+		rLen = 11;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	C95B057B13696475002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 18";
+		rLen = 11;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	C95B057C13696491002607A4 /* BSAddressComponent.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 587}";
+		};
+	};
+	C95B057E13696491002607A4 /* BSForwardGeocoder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 702}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{294, 1179}";
+		};
+	};
+	C95B057F13696491002607A4 /* BSForwardGeocoder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 1924}}";
+			sepNavSelRange = "{1127, 22}";
+			sepNavVisRange = "{2196, 1269}";
+		};
+	};
+	C95B058013696491002607A4 /* BSGoogleV2KmlParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 561}}";
+			sepNavSelRange = "{732, 17}";
+			sepNavVisRange = "{0, 799}";
+		};
+	};
+	C95B058113696491002607A4 /* BSGoogleV2KmlParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 2509}}";
+			sepNavSelRange = "{597, 68}";
+			sepNavVisRange = "{1727, 1804}";
+		};
+	};
+	C95B058413696491002607A4 /* BSKmlResult.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 845}}";
+			sepNavSelRange = "{882, 0}";
+			sepNavVisRange = "{118, 1249}";
+		};
+	};
+	C95B058513696491002607A4 /* BSKmlResult.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1209}}";
+			sepNavSelRange = "{788, 0}";
+			sepNavVisRange = "{0, 1199}";
+		};
+	};
+	C95B05AD13696691002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B057C13696491002607A4 /* BSAddressComponent.h */;
+		name = "BSAddressComponent.h: 10";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	C95B05AE13696691002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 16";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 0;
+	};
+	C95B05AF13696691002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 134";
+		rLen = 0;
+		rLoc = 10527;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 3513;
+	};
+	C95B05B013696691002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 110";
+		rLen = 0;
+		rLoc = 4054;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 2596;
+	};
+	C95B05B5136966B8002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 1135;
+	};
+	C95B05B8136966BF002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 108";
+		rLen = 0;
+		rLoc = 4054;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 2596;
+	};
+	C95B05BF13696746002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 16";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 0;
+	};
+	C95B05C013696746002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 183";
+		rLen = 0;
+		rLoc = 5840;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 5617;
+	};
+	C95B05C113696746002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 189";
+		rLen = 0;
+		rLoc = 6786;
+		rType = 0;
+		vrLen = 987;
+		vrLoc = 4876;
+	};
+	C95B05C213696746002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 218";
+		rLen = 0;
+		rLoc = 8395;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 5735;
+	};
+	C95B05CA13696847002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 91";
+		rLen = 28;
+		rLoc = 3626;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 2067;
+	};
+	C95B05CB13696847002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 94";
+		rLen = 0;
+		rLoc = 3733;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 2084;
+	};
+	C95B05CF13696979002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 133";
+		rLen = 0;
+		rLoc = 4046;
+		rType = 0;
+		vrLen = 1327;
+		vrLoc = 2905;
+	};
+	C95B05D013696979002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 100";
+		rLen = 0;
+		rLoc = 3907;
+		rType = 0;
+		vrLen = 1343;
+		vrLoc = 2477;
+	};
+	C95B05D113696979002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 129";
+		rLen = 0;
+		rLoc = 4317;
+		rType = 0;
+		vrLen = 1463;
+		vrLoc = 2837;
+	};
+	C95B060513696CA5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 36";
+		rLen = 0;
+		rLoc = 1109;
+		rType = 0;
+		vrLen = 1238;
+		vrLoc = 0;
+	};
+	C95B060613696CA5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 129";
+		rLen = 0;
+		rLoc = 4317;
+		rType = 0;
+		vrLen = 1463;
+		vrLoc = 2837;
+	};
+	C95B060713696CA5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 218";
+		rLen = 0;
+		rLoc = 7540;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 5184;
+	};
+	C95B061213696D01002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 36";
+		rLen = 0;
+		rLoc = 1109;
+		rType = 0;
+		vrLen = 1238;
+		vrLoc = 0;
+	};
+	C95B061313696D01002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 227";
+		rLen = 0;
+		rLoc = 7719;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 5466;
+	};
+	C95B061413696D01002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 227";
+		rLen = 0;
+		rLoc = 7719;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 5466;
+	};
+	C95B062313696E4F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 177";
+		rLen = 0;
+		rLoc = 5707;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 2427;
+	};
+	C95B062413696E4F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 177";
+		rLen = 0;
+		rLoc = 5707;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 2427;
+	};
+	C95B063413696F07002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 197";
+		rLen = 0;
+		rLoc = 6422;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 4812;
+	};
+	C95B063E13696FA8002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 122";
+		rLen = 0;
+		rLoc = 4311;
+		rType = 0;
+		vrLen = 1053;
+		vrLoc = 2888;
+	};
+	C95B064213696FC3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 122";
+		rLen = 0;
+		rLoc = 4311;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 6010;
+	};
+	C95B064313696FC3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 122";
+		rLen = 0;
+		rLoc = 4311;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 6010;
+	};
+	C95B064613696FF4002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 254";
+		rLen = 0;
+		rLoc = 8318;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 6010;
+	};
+	C95B06491369710F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B055C13696393002607A4 /* UISearchBar.h */;
+		name = "UISearchBar.h: 15";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 1262;
+		vrLoc = 0;
+	};
+	C95B064A1369710F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 21";
+		rLen = 0;
+		rLoc = 647;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 0;
+	};
+	C95B064B1369710F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 263";
+		rLen = 0;
+		rLoc = 8391;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 6015;
+	};
+	C95B064C1369710F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 258";
+		rLen = 0;
+		rLoc = 8318;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 6309;
+	};
+	C95B064F13697143002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 1135;
+	};
+	C95B06501369715D002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 1135;
+	};
+	C95B065C136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B055C13696393002607A4 /* UISearchBar.h */;
+		name = "UISearchBar.h: 18";
+		rLen = 62;
+		rLoc = 354;
+		rType = 0;
+		vrLen = 1262;
+		vrLoc = 0;
+	};
+	C95B065D136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
+		name = "VenueNameViewController.m: 71";
+		rLen = 0;
+		rLoc = 1753;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 734;
+	};
+	C95B065E136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 133";
+		rLen = 0;
+		rLoc = 4046;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 2966;
+	};
+	C95B065F136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F51366D770003598D8 /* VenuesViewController.h */;
+		name = "VenuesViewController.h: 14";
+		rLen = 21;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 0;
+	};
+	C95B0660136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B0661136971E3002607A4 /* UITableViewController.h */;
+		name = "UITableViewController.h: 22";
+		rLen = 0;
+		rLoc = 937;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 0;
+	};
+	C95B0661136971E3002607A4 /* UITableViewController.h */ = {
+		isa = PBXFileReference;
+		name = UITableViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewController.h;
+		sourceTree = "<absolute>";
+	};
+	C95B0662136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 21";
+		rLen = 0;
+		rLoc = 613;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	C95B0663136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 222";
+		rLen = 0;
+		rLoc = 6924;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 5353;
+	};
+	C95B0664136971E3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 36";
+		rLen = 0;
+		rLoc = 2010;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 59;
+	};
+	C95B066813697207002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 32";
+		rLen = 0;
+		rLoc = 1529;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 170;
+	};
+	C95B067013697236002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 19";
+		rLen = 0;
+		rLoc = 552;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 0;
+	};
+	C95B067113697236002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 32";
+		rLen = 0;
+		rLoc = 1529;
+		rType = 0;
+		vrLen = 1168;
+		vrLoc = 2256;
+	};
+	C95B067213697236002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 97";
+		rLen = 0;
+		rLoc = 3641;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 2730;
+	};
+	C95B067613697261002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 97";
+		rLen = 0;
+		rLoc = 3641;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 4423;
+	};
+	C95B067713697261002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 97";
+		rLen = 0;
+		rLoc = 3641;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 4423;
+	};
+	C95B067813697299002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 97";
+		rLen = 0;
+		rLoc = 3641;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 2297;
+	};
+	C95B067B136972EE002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 19";
+		rLen = 23;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 0;
+	};
+	C95B067C136972EE002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B067D136972EE002607A4 /* UISearchDisplayController.h */;
+		name = "UISearchDisplayController.h: 74";
+		rLen = 0;
+		rLoc = 3568;
+		rType = 0;
+		vrLen = 2807;
+		vrLoc = 1882;
+	};
+	C95B067D136972EE002607A4 /* UISearchDisplayController.h */ = {
+		isa = PBXFileReference;
+		name = UISearchDisplayController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISearchDisplayController.h;
+		sourceTree = "<absolute>";
+	};
+	C95B067E136972EE002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 181";
+		rLen = 0;
+		rLoc = 5656;
+		rType = 0;
+		vrLen = 908;
+		vrLoc = 4506;
+	};
+	C95B067F136972EE002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 198";
+		rLen = 0;
+		rLoc = 5936;
+		rType = 0;
+		vrLen = 1048;
+		vrLoc = 4783;
+	};
+	C95B068B13697318002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 198";
+		rLen = 0;
+		rLoc = 5936;
+		rType = 0;
+		vrLen = 1125;
+		vrLoc = 4783;
+	};
+	C95B069913697427002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 260";
+		rLen = 13;
+		rLoc = 8234;
+		rType = 0;
+		vrLen = 1332;
+		vrLoc = 6711;
+	};
+	C95B069A136974D0002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 27";
+		rLen = 0;
+		rLoc = 748;
+		rType = 0;
+		vrLen = 1180;
+		vrLoc = 0;
+	};
+	C95B069B136974D0002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 260";
+		rLen = 0;
+		rLoc = 8294;
+		rType = 0;
+		vrLen = 1332;
+		vrLoc = 6711;
+	};
+	C95B069C136974D0002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 250";
+		rLen = 0;
+		rLoc = 7878;
+		rType = 0;
+		vrLen = 1184;
+		vrLoc = 6541;
+	};
+	C95B06A913697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058413696491002607A4 /* BSKmlResult.h */;
+		name = "BSKmlResult.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1460;
+		vrLoc = 422;
+	};
+	C95B06AA13697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F51366D770003598D8 /* VenuesViewController.h */;
+		name = "VenuesViewController.h: 14";
+		rLen = 21;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 0;
+	};
+	C95B06AB13697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */;
+		name = "VenueMapAnnotation.h: 14";
+		rLen = 22;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	C95B06AC13697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B0511136893C1002607A4 /* CLLocation.h */;
+		name = "CLLocation.h: 26";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 1027;
+		vrLoc = 0;
+	};
+	C95B06AD13697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 40";
+		rLen = 1;
+		rLoc = 1155;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 33;
+	};
+	C95B06AE13697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 263";
+		rLen = 0;
+		rLoc = 8221;
+		rType = 0;
+		vrLen = 1217;
+		vrLoc = 8295;
+	};
+	C95B06AF13697748002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 256";
+		rLen = 0;
+		rLoc = 7975;
+		rType = 0;
+		vrLen = 1153;
+		vrLoc = 6423;
+	};
+	C95B06B21369776E002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 1135;
+	};
+	C95B06B513697778002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 255";
+		rLen = 0;
+		rLoc = 7956;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 5619;
+	};
+	C95B06C013697834002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
+		name = "VenueNameViewController.m: 71";
+		rLen = 0;
+		rLoc = 1753;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 734;
+	};
+	C95B06C113697834002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 38";
+		rLen = 0;
+		rLoc = 1758;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 0;
+	};
+	C95B06C213697834002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 40";
+		rLen = 1;
+		rLoc = 1155;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 56;
+	};
+	C95B06C313697834002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 20";
+		rLen = 0;
+		rLoc = 552;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 59;
+	};
+	C95B06C513697843002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 20";
+		rLen = 0;
+		rLoc = 597;
+		rType = 0;
+		vrLen = 1307;
+		vrLoc = 59;
+	};
+	C95B06C613697843002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		rLen = 0;
+		rLoc = 249;
+		rType = 1;
+	};
+	C95B06C713697843002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 225";
+		rLen = 0;
+		rLoc = 6882;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 5375;
+	};
+	C95B06C913697871002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 1135;
+	};
+	C95B06CA136978C1002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 1135;
+	};
+	C95B06CF136978DC002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058513696491002607A4 /* BSKmlResult.m */;
+		name = "BSKmlResult.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1140;
+		vrLoc = 0;
+	};
+	C95B06D0136978DC002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058413696491002607A4 /* BSKmlResult.h */;
+		name = "BSKmlResult.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1437;
+		vrLoc = 386;
+	};
+	C95B06D1136978DC002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 20";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 173;
+	};
+	C95B06D2136978DC002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 230";
+		rLen = 0;
+		rLoc = 7013;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 5505;
+	};
+	C95B06D3136978DC002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 239";
+		rLen = 0;
+		rLoc = 7457;
+		rType = 0;
+		vrLen = 1388;
+		vrLoc = 5965;
+	};
+	C95B06D713697905002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 239";
+		rLen = 0;
+		rLoc = 7457;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 4677;
+	};
+	C95B06D813697905002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 239";
+		rLen = 0;
+		rLoc = 7457;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 4677;
+	};
+	C95B06F61369BADA002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 90";
+		rLen = 0;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 1135;
+	};
+	C95B06F71369BADA002607A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'fetchedResultsController' in something not a structure or union";
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 159;
+		rType = 1;
+	};
+	C95B06F81369BADA002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		name = "VenueDetailViewController.m: 161";
+		rLen = 0;
+		rLoc = 4270;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 3995;
+	};
+	C95B06FB1369BB0A002607A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'fetchedResultsController' in something not a structure or union";
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 168;
+		rType = 1;
+	};
+	C95B06FC1369BB0A002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		name = "VenueDetailViewController.m: 170";
+		rLen = 0;
+		rLoc = 4552;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 3995;
+	};
+	C95B07031369BC70002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		name = "VenueDetailViewController.m: 170";
+		rLen = 0;
+		rLoc = 4552;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 3995;
+	};
+	C95B07041369BC70002607A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'fetchedResultsController' in something not a structure or union";
+		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 100;
+		rType = 1;
+	};
+	C95B07051369BC70002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
+		name = "MembersViewController.m: 101";
+		rLen = 0;
+		rLoc = 3017;
+		rType = 0;
+		vrLen = 1259;
+		vrLoc = 2372;
+	};
+	C95B07081369BC79002607A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'fetchedResultsController' in something not a structure or union";
+		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 193;
+		rType = 1;
+	};
+	C95B07091369BC79002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
+		name = "MembersViewController.m: 194";
+		rLen = 0;
+		rLoc = 6355;
+		rType = 0;
+		vrLen = 1054;
+		vrLoc = 5676;
+	};
+	C95B070C1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B057E13696491002607A4 /* BSForwardGeocoder.h */;
+		name = "BSForwardGeocoder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1179;
+		vrLoc = 294;
+	};
+	C95B070D1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B057F13696491002607A4 /* BSForwardGeocoder.m */;
+		name = "BSForwardGeocoder.m: 53";
+		rLen = 22;
+		rLoc = 1127;
+		rType = 0;
+		vrLen = 1269;
+		vrLoc = 2196;
+	};
+	C95B070E1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058013696491002607A4 /* BSGoogleV2KmlParser.h */;
+		name = "BSGoogleV2KmlParser.h: 29";
+		rLen = 17;
+		rLoc = 732;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 0;
+	};
+	C95B070F1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058113696491002607A4 /* BSGoogleV2KmlParser.m */;
+		name = "BSGoogleV2KmlParser.m: 26";
+		rLen = 68;
+		rLoc = 597;
+		rType = 0;
+		vrLen = 1804;
+		vrLoc = 1727;
+	};
+	C95B07101369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058413696491002607A4 /* BSKmlResult.h */;
+		name = "BSKmlResult.h: 34";
+		rLen = 0;
+		rLoc = 882;
+		rType = 0;
+		vrLen = 1496;
+		vrLoc = 386;
+	};
+	C95B07111369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F51366D770003598D8 /* VenuesViewController.h */;
+		name = "VenuesViewController.h: 20";
+		rLen = 24;
+		rLoc = 595;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 0;
+	};
+	C95B07121369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
+		name = "VenueDetailViewController.h: 17";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	C95B07131369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
+		name = "VenueNameViewController.m: 63";
+		rLen = 0;
+		rLoc = 1681;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 1393;
+	};
+	C95B07141369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
+		name = "VenueNameViewController.h: 19";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 0;
+	};
+	C95B07151369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		name = "VenueDetailViewController.m: 161";
+		rLen = 0;
+		rLoc = 4270;
+		rType = 0;
+		vrLen = 1200;
+		vrLoc = 3993;
+	};
+	C95B07161369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 20";
+		rLen = 0;
+		rLoc = 498;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 0;
+	};
+	C95B07171369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 39";
+		rLen = 0;
+		rLoc = 1105;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 59;
+	};
+	C95B07181369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5130F13680DE1003598D8 /* MembersViewController.h */;
+		name = "MembersViewController.h: 19";
+		rLen = 0;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	C95B07191369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
+		name = "MembersViewController.m: 16";
+		rLen = 0;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 54;
+	};
+	C95B071A1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
+		name = "MemberDetailViewController.h: 13";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 0;
+	};
+	C95B071B1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
+		name = "MemberDetailViewController.m: 11";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 0;
+	};
+	C95B071C1369BC7B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
+		name = "MemberDetailViewController.m: 12";
+		rLen = 0;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 3;
+	};
+	C95B07221369BD79002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
+		name = "MembersViewController.m: 194";
+		rLen = 0;
+		rLoc = 6355;
+		rType = 0;
+		vrLen = 1003;
+		vrLoc = 5676;
+	};
+	C95B07231369BD79002607A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'fetchedResultsController' in something not a structure or union";
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 99;
+		rType = 1;
+	};
+	C95B07241369BD79002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 100";
+		rLen = 0;
+		rLoc = 2891;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 2192;
+	};
+	C95B07291369BD86002607A4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'fetchedResultsController' in something not a structure or union";
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 192;
+		rType = 1;
+	};
+	C95B072A1369BD86002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 193";
+		rLen = 0;
+		rLoc = 6173;
+		rType = 0;
+		vrLen = 1333;
+		vrLoc = 5162;
+	};
+	C95B072F1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
+		name = "MemberDetailViewController.m: 12";
+		rLen = 0;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 3;
+	};
+	C95B07301369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F51366D770003598D8 /* VenuesViewController.h */;
+		name = "VenuesViewController.h: 19";
+		rLen = 0;
+		rLoc = 524;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 0;
+	};
+	C95B07311369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 303";
+		rLen = 0;
+		rLoc = 10613;
+		rType = 0;
+		vrLen = 1159;
+		vrLoc = 10237;
+	};
+	C95B07321369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
+		name = "VenueDetailViewController.h: 18";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 0;
+	};
+	C95B07331369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		name = "VenueDetailViewController.m: 15";
+		rLen = 0;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 0;
+	};
+	C95B07341369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
+		name = "VenueNameViewController.h: 19";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 0;
+	};
+	C95B07351369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
+		name = "VenueNameViewController.m: 63";
+		rLen = 0;
+		rLoc = 1681;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 1393;
+	};
+	C95B07361369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 39";
+		rLen = 0;
+		rLoc = 1105;
+		rType = 0;
+		vrLen = 1172;
+		vrLoc = 56;
+	};
+	C95B07371369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 20";
+		rLen = 0;
+		rLoc = 498;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 0;
+	};
+	C95B07381369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */;
+		name = "VenueMapAnnotation.m: 21";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C95B07391369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */;
+		name = "VenueMapAnnotation.h: 16";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	C95B073A1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 25";
+		rLen = 0;
+		rLoc = 641;
+		rType = 0;
+		vrLen = 641;
+		vrLoc = 0;
+	};
+	C95B073B1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5101B1366B071003598D8 /* EventDetailViewController.h */;
+		name = "EventDetailViewController.h: 22";
+		rLen = 24;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 684;
+		vrLoc = 0;
+	};
+	C95B073C1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B513C11368218A003598D8 /* SelectEventAttendeesController.h */;
+		name = "SelectEventAttendeesController.h: 25";
+		rLen = 24;
+		rLoc = 663;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 0;
+	};
+	C95B073D1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B513C21368218A003598D8 /* SelectEventAttendeesController.m */;
+		name = "SelectEventAttendeesController.m: 201";
+		rLen = 0;
+		rLoc = 5941;
+		rType = 0;
+		vrLen = 1616;
+		vrLoc = 5560;
+	};
+	C95B073E1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5139613681B0A003598D8 /* AddEventAttendeesController.h */;
+		name = "AddEventAttendeesController.h: 20";
+		rLen = 0;
+		rLoc = 424;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 0;
+	};
+	C95B073F1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
+		name = "AddEventAttendeesController.m: 13";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 0;
+	};
+	C95B07401369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
+		name = "AddEventVenueController.m: 14";
+		rLen = 0;
+		rLoc = 312;
+		rType = 0;
+		vrLen = 972;
+		vrLoc = 210;
+	};
+	C95B07411369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512A11366E2F8003598D8 /* AddEventVenueController.h */;
+		name = "AddEventVenueController.h: 17";
+		rLen = 0;
+		rLoc = 446;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	C95B07421369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
+		name = "AddEventTypeController.m: 110";
+		rLen = 0;
+		rLoc = 3142;
+		rType = 0;
+		vrLen = 1200;
+		vrLoc = 0;
+	};
+	C95B07431369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
+		name = "AddEventTypeController.h: 13";
+		rLen = 0;
+		rLoc = 330;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	C95B07441369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
+		name = "AddEventDateController.h: 13";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 0;
+	};
+	C95B07451369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
+		name = "AddEventDateController.m: 98";
+		rLen = 0;
+		rLoc = 2725;
+		rType = 0;
+		vrLen = 1062;
+		vrLoc = 0;
+	};
+	C95B07461369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
+		name = "AddEventNameController.m: 82";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 1546;
+	};
+	C95B07471369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
+		name = "AddEventNameController.h: 13";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 0;
+	};
+	C95B07481369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */;
+		name = "EventDetailViewController.m: 221";
+		rLen = 0;
+		rLoc = 6179;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 5519;
+	};
+	C95B07491369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 359";
+		rLen = 0;
+		rLoc = 12567;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 11489;
+	};
+	C95B074A1369C04C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 343";
+		rLen = 0;
+		rLoc = 12152;
+		rType = 0;
+		vrLen = 1136;
+		vrLoc = 11567;
+	};
+	C95B074C1369C0DC002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
+		name = "VenuesViewController.m: 193";
+		rLen = 0;
+		rLoc = 6173;
+		rType = 0;
+		vrLen = 1333;
+		vrLoc = 5162;
+	};
+	C95B07511369C22F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 343";
+		rLen = 0;
+		rLoc = 12152;
+		rType = 0;
+		vrLen = 1136;
+		vrLoc = 11567;
+	};
+	C95B07521369C22F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 20";
+		rLen = 0;
+		rLoc = 498;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 0;
+	};
+	C95B07531369C22F002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 197";
+		rLen = 0;
+		rLoc = 6166;
+		rType = 0;
+		vrLen = 1065;
+		vrLoc = 4739;
+	};
+	C95B075B1369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
+		name = "VenueDetailViewController.m: 15";
+		rLen = 0;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 1202;
+		vrLoc = 1660;
+	};
+	C95B075C1369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 29";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 56;
+	};
+	C95B075D1369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */;
+		name = "VenueMapAnnotation.m: 21";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C95B075E1369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B0511136893C1002607A4 /* CLLocation.h */;
+		name = "CLLocation.h: 48";
+		rLen = 22;
+		rLoc = 1100;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 881;
+	};
+	C95B075F1369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */;
+		name = "VenueMapAnnotation.h: 14";
+		rLen = 22;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	C95B07601369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 88";
+		rLen = 0;
+		rLoc = 3108;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 1791;
+	};
+	C95B07611369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5130813680D98003598D8 /* Venue.m */;
+		name = "Venue.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	C95B07621369C4B5002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5130713680D98003598D8 /* Venue.h */;
+		name = "Venue.h: 17";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	C95B077B1369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B5130713680D98003598D8 /* Venue.h */;
+		name = "Venue.h: 17";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	C95B077C1369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B0511136893C1002607A4 /* CLLocation.h */;
+		name = "CLLocation.h: 31";
+		rLen = 0;
+		rLoc = 758;
+		rType = 0;
+		vrLen = 1027;
+		vrLoc = 0;
+	};
+	C95B077D1369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */;
+		name = "VenueMapAnnotation.h: 19";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	C95B077E1369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */;
+		name = "VenueMapAnnotation.m: 21";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C95B077F1369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058413696491002607A4 /* BSKmlResult.h */;
+		name = "BSKmlResult.h: 34";
+		rLen = 0;
+		rLoc = 882;
+		rType = 0;
+		vrLen = 1249;
+		vrLoc = 118;
+	};
+	C95B07801369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B058513696491002607A4 /* BSKmlResult.m */;
+		name = "BSKmlResult.m: 29";
+		rLen = 0;
+		rLoc = 788;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 0;
+	};
+	C95B07811369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
+		name = "VenueNameViewController.m: 84";
+		rLen = 0;
+		rLoc = 2161;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 1435;
+	};
+	C95B07821369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A3136889FD002607A4 /* VenueLocationController.h */;
+		name = "VenueLocationController.h: 29";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 1247;
+		vrLoc = 33;
+	};
+	C95B07831369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 25";
+		rLen = 0;
+		rLoc = 697;
+		rType = 0;
+		vrLen = 1363;
+		vrLoc = 56;
+	};
+	C95B07841369C6F3002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 22";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 1568;
+		vrLoc = 347;
+	};
+	C95B078A1369C73C002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 34";
+		rLen = 0;
+		rLoc = 944;
+		rType = 0;
+		vrLen = 1578;
+		vrLoc = 399;
+	};
+	C95B07901369C7CB002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 30";
+		rLen = 0;
+		rLoc = 857;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 399;
+	};
+	C95B07911369C7CB002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 42";
+		rLen = 0;
+		rLoc = 1321;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 399;
 	};
 	C9B50FB513602AE3003598D8 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -1712,7 +3809,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 194";
 		rLen = 0;
-		rLoc = 7070;
+		rLoc = 7145;
 		rType = 0;
 		vrLen = 986;
 		vrLoc = 5857;
@@ -1784,16 +3881,16 @@
 	};
 	C9B5101B1366B071003598D8 /* EventDetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {783, 514}}";
-			sepNavSelRange = "{395, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{503, 24}";
 			sepNavVisRange = "{0, 684}";
 		};
 	};
 	C9B5101C1366B071003598D8 /* EventDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1104, 3835}}";
-			sepNavSelRange = "{3649, 283}";
-			sepNavVisRange = "{3532, 823}";
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 3692}}";
+			sepNavSelRange = "{6179, 0}";
+			sepNavVisRange = "{5519, 1404}";
 		};
 	};
 	C9B510211366B078003598D8 /* PlistBookmark */ = {
@@ -1847,7 +3944,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 240";
 		rLen = 0;
-		rLoc = 9277;
+		rLoc = 9352;
 		rType = 0;
 		vrLen = 1741;
 		vrLoc = 8547;
@@ -1935,7 +4032,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 94";
 		rLen = 0;
-		rLoc = 3272;
+		rLoc = 3406;
 		rType = 0;
 		vrLen = 1469;
 		vrLoc = 1946;
@@ -1983,7 +4080,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 94";
 		rLen = 0;
-		rLoc = 3272;
+		rLoc = 3406;
 		rType = 0;
 		vrLen = 1469;
 		vrLoc = 1946;
@@ -2028,7 +4125,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 34";
 		rLen = 0;
-		rLoc = 762;
+		rLoc = 804;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 256;
@@ -2088,7 +4185,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 27";
 		rLen = 0;
-		rLoc = 572;
+		rLoc = 614;
 		rType = 0;
 		vrLen = 1608;
 		vrLoc = 1384;
@@ -2098,23 +4195,23 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 328";
 		rLen = 0;
-		rLoc = 12126;
+		rLoc = 12201;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 10815;
 	};
 	C9B510641366B536003598D8 /* AddEventNameController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 537}}";
-			sepNavSelRange = "{528, 0}";
-			sepNavVisRange = "{0, 537}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 396}";
 		};
 	};
 	C9B510651366B536003598D8 /* AddEventNameController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1183}}";
-			sepNavSelRange = "{894, 0}";
-			sepNavVisRange = "{250, 1223}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1261}}";
+			sepNavSelRange = "{2065, 0}";
+			sepNavVisRange = "{1546, 737}";
 		};
 	};
 	C9B5106A1366B536003598D8 /* Sample025_CoreData */ = {
@@ -2154,7 +4251,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 325";
 		rLen = 0;
-		rLoc = 12079;
+		rLoc = 12154;
 		rType = 0;
 		vrLen = 1224;
 		vrLoc = 10807;
@@ -2204,7 +4301,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 325";
 		rLen = 0;
-		rLoc = 12079;
+		rLoc = 12154;
 		rType = 0;
 		vrLen = 1161;
 		vrLoc = 0;
@@ -2264,7 +4361,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 325";
 		rLen = 0;
-		rLoc = 12079;
+		rLoc = 12154;
 		rType = 0;
 		vrLen = 1161;
 		vrLoc = 0;
@@ -2274,7 +4371,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 38";
 		rLen = 31;
-		rLoc = 1046;
+		rLoc = 1088;
 		rType = 0;
 		vrLen = 1155;
 		vrLoc = 3;
@@ -2318,7 +4415,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 36";
 		rLen = 0;
-		rLoc = 966;
+		rLoc = 1008;
 		rType = 0;
 		vrLen = 1168;
 		vrLoc = 0;
@@ -2328,7 +4425,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 22";
 		rLen = 0;
-		rLoc = 704;
+		rLoc = 707;
 		rType = 0;
 		vrLen = 1236;
 		vrLoc = 0;
@@ -2358,7 +4455,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 16";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 323;
 		vrLoc = 0;
@@ -2368,7 +4465,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 16";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 323;
 		vrLoc = 0;
@@ -2378,7 +4475,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 370;
 		vrLoc = 0;
@@ -2388,7 +4485,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 379;
 		vrLoc = 0;
@@ -2398,7 +4495,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 379;
 		vrLoc = 0;
@@ -2408,7 +4505,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 15";
 		rLen = 0;
-		rLoc = 397;
+		rLoc = 342;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -2428,7 +4525,7 @@
 		comments = "Expected ']' before ';' token";
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		rLen = 1;
-		rLoc = 37;
+		rLoc = 38;
 		rType = 1;
 	};
 	C9B510941366B9FA003598D8 /* PBXTextBookmark */ = {
@@ -2436,7 +4533,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 38";
 		rLen = 0;
-		rLoc = 1078;
+		rLoc = 1120;
 		rType = 0;
 		vrLen = 631;
 		vrLoc = 661;
@@ -2463,7 +4560,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 35";
 		rLen = 0;
-		rLoc = 941;
+		rLoc = 983;
 		rType = 0;
 		vrLen = 1158;
 		vrLoc = 257;
@@ -2493,7 +4590,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 401;
+		rLoc = 346;
 		rType = 0;
 		vrLen = 456;
 		vrLoc = 0;
@@ -2503,7 +4600,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 69";
 		rLen = 0;
-		rLoc = 2181;
+		rLoc = 2166;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 0;
@@ -2513,7 +4610,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 60";
 		rLen = 0;
-		rLoc = 1761;
+		rLoc = 1727;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 0;
@@ -2523,7 +4620,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 38";
 		rLen = 0;
-		rLoc = 1078;
+		rLoc = 1120;
 		rType = 0;
 		vrLen = 631;
 		vrLoc = 661;
@@ -2551,7 +4648,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 26";
 		rLen = 0;
-		rLoc = 729;
+		rLoc = 732;
 		rType = 0;
 		vrLen = 1163;
 		vrLoc = 0;
@@ -2561,7 +4658,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 26";
 		rLen = 0;
-		rLoc = 729;
+		rLoc = 732;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 0;
@@ -2611,7 +4708,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 26";
 		rLen = 0;
-		rLoc = 729;
+		rLoc = 732;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 0;
@@ -2731,7 +4828,7 @@
 		comments = "Unused variable 'entity'";
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		rLen = 1;
-		rLoc = 100;
+		rLoc = 104;
 		rType = 1;
 	};
 	C9B510DA1366C645003598D8 /* PBXTextBookmark */ = {
@@ -2739,7 +4836,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 93";
 		rLen = 0;
-		rLoc = 2772;
+		rLoc = 2870;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 2259;
@@ -2759,7 +4856,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 63";
 		rLen = 0;
-		rLoc = 1785;
+		rLoc = 1751;
 		rType = 0;
 		vrLen = 988;
 		vrLoc = 863;
@@ -2769,7 +4866,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 401;
+		rLoc = 346;
 		rType = 0;
 		vrLen = 456;
 		vrLoc = 0;
@@ -2789,7 +4886,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 111";
 		rLen = 0;
-		rLoc = 3564;
+		rLoc = 3698;
 		rType = 0;
 		vrLen = 1527;
 		vrLoc = 2057;
@@ -2849,7 +4946,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 96";
 		rLen = 0;
-		rLoc = 3032;
+		rLoc = 3148;
 		rType = 0;
 		vrLen = 1533;
 		vrLoc = 1987;
@@ -2859,7 +4956,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 93";
 		rLen = 0;
-		rLoc = 2772;
+		rLoc = 2870;
 		rType = 0;
 		vrLen = 1167;
 		vrLoc = 2291;
@@ -2887,7 +4984,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 63";
 		rLen = 0;
-		rLoc = 1785;
+		rLoc = 1751;
 		rType = 0;
 		vrLen = 907;
 		vrLoc = 949;
@@ -2897,7 +4994,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 401;
+		rLoc = 346;
 		rType = 0;
 		vrLen = 456;
 		vrLoc = 0;
@@ -2917,7 +5014,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 174";
 		rLen = 0;
-		rLoc = 5710;
+		rLoc = 5767;
 		rType = 0;
 		vrLen = 1633;
 		vrLoc = 4594;
@@ -2957,7 +5054,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 97";
 		rLen = 0;
-		rLoc = 3077;
+		rLoc = 3193;
 		rType = 0;
 		vrLen = 1605;
 		vrLoc = 1680;
@@ -3017,7 +5114,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 63";
 		rLen = 0;
-		rLoc = 1785;
+		rLoc = 1751;
 		rType = 0;
 		vrLen = 989;
 		vrLoc = 867;
@@ -3027,7 +5124,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 18";
 		rLen = 0;
-		rLoc = 401;
+		rLoc = 346;
 		rType = 0;
 		vrLen = 456;
 		vrLoc = 0;
@@ -3047,7 +5144,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 217";
 		rLen = 56;
-		rLoc = 7128;
+		rLoc = 7203;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 6065;
@@ -3097,7 +5194,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 217";
 		rLen = 56;
-		rLoc = 7128;
+		rLoc = 7203;
 		rType = 0;
 		vrLen = 1419;
 		vrLoc = 6065;
@@ -3107,7 +5204,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 113";
 		rLen = 0;
-		rLoc = 3564;
+		rLoc = 3698;
 		rType = 0;
 		vrLen = 1472;
 		vrLoc = 1897;
@@ -3117,7 +5214,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 107";
 		rLen = 0;
-		rLoc = 3334;
+		rLoc = 3468;
 		rType = 0;
 		vrLen = 1389;
 		vrLoc = 2213;
@@ -3127,7 +5224,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 107";
 		rLen = 0;
-		rLoc = 3334;
+		rLoc = 3468;
 		rType = 0;
 		vrLen = 1389;
 		vrLoc = 2213;
@@ -3147,9 +5244,9 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 24";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
-		vrLen = 598;
+		vrLen = 537;
 		vrLoc = 0;
 	};
 	C9B511241366C9A5003598D8 /* PBXTextBookmark */ = {
@@ -3157,7 +5254,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 80";
 		rLen = 0;
-		rLoc = 2175;
+		rLoc = 2160;
 		rType = 0;
 		vrLen = 878;
 		vrLoc = 1293;
@@ -3197,9 +5294,9 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 24";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
-		vrLen = 598;
+		vrLen = 537;
 		vrLoc = 0;
 	};
 	C9B5112B1366C9B1003598D8 /* PBXTextBookmark */ = {
@@ -3207,7 +5304,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 80";
 		rLen = 0;
-		rLoc = 2175;
+		rLoc = 2160;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 1236;
@@ -3217,7 +5314,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 80";
 		rLen = 0;
-		rLoc = 2175;
+		rLoc = 2160;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 1236;
@@ -3227,7 +5324,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 80";
 		rLen = 0;
-		rLoc = 2175;
+		rLoc = 2160;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 1236;
@@ -3237,9 +5334,9 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 24";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
-		vrLen = 598;
+		vrLen = 537;
 		vrLoc = 0;
 	};
 	C9B511361366C9FB003598D8 /* PBXTextBookmark */ = {
@@ -3297,9 +5394,9 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 24";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
-		vrLen = 598;
+		vrLen = 537;
 		vrLoc = 0;
 	};
 	C9B511401366CAAD003598D8 /* PBXTextBookmark */ = {
@@ -3307,7 +5404,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 32";
 		rLen = 0;
-		rLoc = 896;
+		rLoc = 899;
 		rType = 0;
 		vrLen = 1243;
 		vrLoc = 172;
@@ -3317,7 +5414,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1687;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 1446;
@@ -3327,7 +5424,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1687;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 1446;
@@ -3351,16 +5448,16 @@
 	};
 	C9B511461366CB46003598D8 /* AddEventDateController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {969, 537}}";
-			sepNavSelRange = "{659, 0}";
-			sepNavVisRange = "{0, 682}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 543}";
 		};
 	};
 	C9B511471366CB46003598D8 /* AddEventDateController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1313}}";
-			sepNavSelRange = "{1977, 0}";
-			sepNavVisRange = "{1041, 1301}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1365}}";
+			sepNavSelRange = "{2725, 0}";
+			sepNavVisRange = "{0, 1062}";
 		};
 	};
 	C9B5114C1366CB4E003598D8 /* PBXTextBookmark */ = {
@@ -3408,9 +5505,9 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 24";
 		rLen = 0;
-		rLoc = 530;
+		rLoc = 389;
 		rType = 0;
-		vrLen = 598;
+		vrLen = 537;
 		vrLoc = 0;
 	};
 	C9B511531366CD5E003598D8 /* PBXTextBookmark */ = {
@@ -3418,7 +5515,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1687;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 884;
 		vrLoc = 1409;
@@ -3428,7 +5525,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 23";
 		rLen = 0;
-		rLoc = 675;
+		rLoc = 536;
 		rType = 0;
 		vrLen = 568;
 		vrLoc = 0;
@@ -3438,7 +5535,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 22";
 		rLen = 0;
-		rLoc = 947;
+		rLoc = 968;
 		rType = 0;
 		vrLen = 1129;
 		vrLoc = 911;
@@ -3448,7 +5545,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 19";
 		rLen = 0;
-		rLoc = 784;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 1133;
 		vrLoc = 0;
@@ -3458,7 +5555,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1687;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 884;
 		vrLoc = 1409;
@@ -3468,7 +5565,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 23";
 		rLen = 0;
-		rLoc = 675;
+		rLoc = 536;
 		rType = 0;
 		vrLen = 568;
 		vrLoc = 0;
@@ -3478,7 +5575,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 23";
 		rLen = 0;
-		rLoc = 926;
+		rLoc = 947;
 		rType = 0;
 		vrLen = 1134;
 		vrLoc = 0;
@@ -3488,7 +5585,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 46";
 		rLen = 0;
-		rLoc = 1692;
+		rLoc = 1713;
 		rType = 0;
 		vrLen = 1133;
 		vrLoc = 961;
@@ -3497,8 +5594,8 @@
 		isa = PBXTextBookmark;
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 21";
-		rLen = 1;
-		rLoc = 505;
+		rLen = 0;
+		rLoc = 425;
 		rType = 0;
 		vrLen = 568;
 		vrLoc = 0;
@@ -3508,7 +5605,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 50";
 		rLen = 0;
-		rLoc = 1851;
+		rLoc = 1872;
 		rType = 0;
 		vrLen = 1147;
 		vrLoc = 960;
@@ -3518,7 +5615,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 47";
 		rLen = 0;
-		rLoc = 1788;
+		rLoc = 1809;
 		rType = 0;
 		vrLen = 1148;
 		vrLoc = 960;
@@ -3528,7 +5625,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1687;
+		rLoc = 1690;
 		rType = 0;
 		vrLen = 884;
 		vrLoc = 1409;
@@ -3548,7 +5645,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 20";
 		rLen = 0;
-		rLoc = 664;
+		rLoc = 667;
 		rType = 0;
 		vrLen = 1279;
 		vrLoc = 0;
@@ -3558,7 +5655,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 24";
 		rLen = 0;
-		rLoc = 675;
+		rLoc = 536;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 0;
@@ -3568,7 +5665,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 24";
 		rLen = 0;
-		rLoc = 675;
+		rLoc = 536;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 0;
@@ -3588,7 +5685,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 20";
 		rLen = 0;
-		rLoc = 664;
+		rLoc = 667;
 		rType = 0;
 		vrLen = 1279;
 		vrLoc = 0;
@@ -3598,7 +5695,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 20";
 		rLen = 0;
-		rLoc = 664;
+		rLoc = 667;
 		rType = 0;
 		vrLen = 1279;
 		vrLoc = 0;
@@ -3628,7 +5725,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 20";
 		rLen = 0;
-		rLoc = 528;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 537;
 		vrLoc = 0;
@@ -3638,7 +5735,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 13";
 		rLen = 0;
-		rLoc = 249;
+		rLoc = 290;
 		rType = 0;
 		vrLen = 1220;
 		vrLoc = 0;
@@ -3648,7 +5745,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 16";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 310;
 		rType = 0;
 		vrLen = 1279;
 		vrLoc = 0;
@@ -3658,7 +5755,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 16";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 310;
 		rType = 0;
 		vrLen = 1058;
 		vrLoc = 1380;
@@ -3668,7 +5765,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 25";
 		rLen = 0;
-		rLoc = 659;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 682;
 		vrLoc = 0;
@@ -3678,7 +5775,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 17";
 		rLen = 0;
-		rLoc = 336;
+		rLoc = 339;
 		rType = 0;
 		vrLen = 1267;
 		vrLoc = 0;
@@ -3688,7 +5785,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 62";
 		rLen = 0;
-		rLoc = 1853;
+		rLoc = 1874;
 		rType = 0;
 		vrLen = 1387;
 		vrLoc = 742;
@@ -3698,23 +5795,23 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 53";
 		rLen = 0;
-		rLoc = 1498;
+		rLoc = 1519;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 742;
 	};
 	C9B511861366D0C8003598D8 /* AddEventTypeController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 537}}";
-			sepNavSelRange = "{628, 0}";
-			sepNavVisRange = "{0, 634}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{330, 0}";
+			sepNavVisRange = "{0, 496}";
 		};
 	};
 	C9B511871366D0C8003598D8 /* AddEventTypeController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1534}}";
-			sepNavSelRange = "{1582, 0}";
-			sepNavVisRange = "{326, 1405}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1521}}";
+			sepNavSelRange = "{3142, 0}";
+			sepNavVisRange = "{0, 1200}";
 		};
 	};
 	C9B5118B1366D0D4003598D8 /* PBXTextBookmark */ = {
@@ -3732,7 +5829,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 36";
 		rLen = 0;
-		rLoc = 917;
+		rLoc = 938;
 		rType = 0;
 		vrLen = 1264;
 		vrLoc = 172;
@@ -3755,8 +5852,8 @@
 		isa = PBXTextBookmark;
 		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
 		name = "AddEventTypeController.h: 20";
-		rLen = 24;
-		rLoc = 584;
+		rLen = 0;
+		rLoc = 471;
 		rType = 0;
 		vrLen = 547;
 		vrLoc = 0;
@@ -3776,7 +5873,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 23";
 		rLen = 0;
-		rLoc = 1154;
+		rLoc = 1176;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 0;
@@ -3796,7 +5893,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 36";
 		rLen = 0;
-		rLoc = 929;
+		rLoc = 950;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 478;
@@ -3806,9 +5903,9 @@
 		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
 		name = "AddEventTypeController.h: 16";
 		rLen = 12;
-		rLoc = 398;
+		rLoc = 343;
 		rType = 0;
-		vrLen = 677;
+		vrLen = 634;
 		vrLoc = 0;
 	};
 	C9B511A01366D3B5003598D8 /* PBXTextBookmark */ = {
@@ -3833,7 +5930,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 23";
 		rLen = 0;
-		rLoc = 347;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 1204;
 		vrLoc = 0;
@@ -3843,7 +5940,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 55";
 		rLen = 0;
-		rLoc = 1508;
+		rLoc = 1530;
 		rType = 0;
 		vrLen = 1279;
 		vrLoc = 0;
@@ -3853,7 +5950,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 55";
 		rLen = 0;
-		rLoc = 1508;
+		rLoc = 1530;
 		rType = 0;
 		vrLen = 1302;
 		vrLoc = 0;
@@ -3903,9 +6000,9 @@
 		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
 		name = "AddEventTypeController.h: 20";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 428;
 		rType = 0;
-		vrLen = 677;
+		vrLen = 634;
 		vrLoc = 0;
 	};
 	C9B511B51366D43F003598D8 /* PBXTextBookmark */ = {
@@ -3913,7 +6010,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 55";
 		rLen = 0;
-		rLoc = 1508;
+		rLoc = 1530;
 		rType = 0;
 		vrLen = 1520;
 		vrLoc = 440;
@@ -3923,7 +6020,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 45";
 		rLen = 0;
-		rLoc = 1179;
+		rLoc = 1201;
 		rType = 0;
 		vrLen = 1330;
 		vrLoc = 457;
@@ -3933,9 +6030,9 @@
 		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
 		name = "AddEventTypeController.h: 20";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 428;
 		rType = 0;
-		vrLen = 677;
+		vrLen = 634;
 		vrLoc = 0;
 	};
 	C9B511BE1366D49A003598D8 /* PBXTextBookmark */ = {
@@ -3943,7 +6040,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 25";
 		rLen = 0;
-		rLoc = 659;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 682;
 		vrLoc = 0;
@@ -3963,7 +6060,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 39";
 		rLen = 0;
-		rLoc = 1004;
+		rLoc = 1026;
 		rType = 0;
 		vrLen = 1410;
 		vrLoc = 550;
@@ -3973,7 +6070,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 39";
 		rLen = 0;
-		rLoc = 1004;
+		rLoc = 1026;
 		rType = 0;
 		vrLen = 1410;
 		vrLoc = 550;
@@ -3983,7 +6080,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 46";
 		rLen = 0;
-		rLoc = 1180;
+		rLoc = 1202;
 		rType = 0;
 		vrLen = 1341;
 		vrLoc = 550;
@@ -3993,7 +6090,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 46";
 		rLen = 0;
-		rLoc = 1180;
+		rLoc = 1202;
 		rType = 0;
 		vrLen = 980;
 		vrLoc = 2121;
@@ -4003,7 +6100,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 101";
 		rLen = 0;
-		rLoc = 2992;
+		rLoc = 3014;
 		rType = 0;
 		vrLen = 1018;
 		vrLoc = 2113;
@@ -4023,7 +6120,7 @@
 		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
 		name = "AddEventTypeController.h: 25";
 		rLen = 0;
-		rLoc = 628;
+		rLoc = 490;
 		rType = 0;
 		vrLen = 634;
 		vrLoc = 0;
@@ -4033,7 +6130,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 16";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 311;
 		rType = 0;
 		vrLen = 1220;
 		vrLoc = 0;
@@ -4043,7 +6140,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 72";
 		rLen = 0;
-		rLoc = 2136;
+		rLoc = 2158;
 		rType = 0;
 		vrLen = 1173;
 		vrLoc = 1861;
@@ -4082,16 +6179,16 @@
 	};
 	C9B511F51366D770003598D8 /* VenuesViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {969, 514}}";
-			sepNavSelRange = "{337, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{524, 0}";
 			sepNavVisRange = "{0, 712}";
 		};
 	};
 	C9B511F61366D770003598D8 /* VenuesViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2343, 4576}}";
-			sepNavSelRange = "{297, 0}";
-			sepNavVisRange = "{0, 967}";
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 4316}}";
+			sepNavSelRange = "{6173, 0}";
+			sepNavVisRange = "{5162, 1333}";
 		};
 	};
 	C9B511FB1366D784003598D8 /* PBXTextBookmark */ = {
@@ -4099,7 +6196,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 81";
 		rLen = 0;
-		rLoc = 2434;
+		rLoc = 2456;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 1861;
@@ -4133,7 +6230,7 @@
 		isa = PBXTextBookmark;
 		fRef = C9B511F51366D770003598D8 /* VenuesViewController.h */;
 		rLen = 0;
-		rLoc = 9223372036854775808;
+		rLoc = 712;
 		rType = 0;
 	};
 	C9B512001366D784003598D8 /* PBXTextBookmark */ = {
@@ -4184,7 +6281,7 @@
 		comments = "Expected expression before '<' token";
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		rLen = 0;
-		rLoc = 63;
+		rLoc = 67;
 		rType = 1;
 	};
 	C9B5120C1366D9EC003598D8 /* PBXTextBookmark */ = {
@@ -4192,7 +6289,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 77";
 		rLen = 0;
-		rLoc = 1525;
+		rLoc = 1714;
 		rType = 0;
 		vrLen = 874;
 		vrLoc = 1311;
@@ -4242,7 +6339,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 30";
 		rLen = 0;
-		rLoc = 620;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 1167;
 		vrLoc = 165;
@@ -4281,7 +6378,7 @@
 		comments = "Expected expression before '<' token";
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		rLen = 0;
-		rLoc = 63;
+		rLoc = 67;
 		rType = 1;
 	};
 	C9B5121B1366D9F1003598D8 /* PBXTextBookmark */ = {
@@ -4289,7 +6386,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 79";
 		rLen = 0;
-		rLoc = 1525;
+		rLoc = 1714;
 		rType = 0;
 		vrLen = 1239;
 		vrLoc = 1137;
@@ -4299,7 +6396,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 77";
 		rLen = 0;
-		rLoc = 1525;
+		rLoc = 1714;
 		rType = 0;
 		vrLen = 761;
 		vrLoc = 1311;
@@ -4319,7 +6416,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 75";
 		rLen = 0;
-		rLoc = 1525;
+		rLoc = 1714;
 		rType = 0;
 		vrLen = 1239;
 		vrLoc = 1137;
@@ -4329,23 +6426,23 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 75";
 		rLen = 0;
-		rLoc = 1525;
+		rLoc = 1714;
 		rType = 0;
 		vrLen = 1236;
 		vrLoc = 1140;
 	};
 	C9B512221366DB23003598D8 /* VenueDetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
-			sepNavSelRange = "{545, 0}";
-			sepNavVisRange = "{0, 551}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{0, 413}";
 		};
 	};
 	C9B512231366DB23003598D8 /* VenueDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 2665}}";
-			sepNavSelRange = "{4834, 0}";
-			sepNavVisRange = "{4397, 964}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 2808}}";
+			sepNavSelRange = "{348, 0}";
+			sepNavVisRange = "{1660, 1202}";
 		};
 	};
 	C9B512281366DB69003598D8 /* PBXTextBookmark */ = {
@@ -4362,8 +6459,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 77";
-		rLen = 5126;
-		rLoc = 1943;
+		rLen = 5012;
+		rLoc = 2132;
 		rType = 0;
 		vrLen = 1499;
 		vrLoc = 5481;
@@ -4413,7 +6510,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 99";
 		rLen = 0;
-		rLoc = 2747;
+		rLoc = 2882;
 		rType = 0;
 		vrLen = 1417;
 		vrLoc = 1667;
@@ -4423,7 +6520,7 @@
 		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
 		name = "VenueDetailViewController.h: 14";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 484;
 		vrLoc = 0;
@@ -4433,7 +6530,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 27";
 		rLen = 0;
-		rLoc = 685;
+		rLoc = 647;
 		rType = 0;
 		vrLen = 833;
 		vrLoc = 0;
@@ -4443,7 +6540,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 99";
 		rLen = 0;
-		rLoc = 2747;
+		rLoc = 2882;
 		rType = 0;
 		vrLen = 1417;
 		vrLoc = 1667;
@@ -4453,7 +6550,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 223";
 		rLen = 0;
-		rLoc = 7151;
+		rLoc = 7103;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 2878;
@@ -4463,7 +6560,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 199";
 		rLen = 0;
-		rLoc = 6324;
+		rLoc = 6276;
 		rType = 0;
 		vrLen = 1060;
 		vrLoc = 1366;
@@ -4473,7 +6570,7 @@
 		comments = "Expected expression before '<' token";
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		rLen = 1;
-		rLoc = 67;
+		rLoc = 66;
 		rType = 1;
 	};
 	C9B512411366DCBF003598D8 /* PBXTextBookmark */ = {
@@ -4481,7 +6578,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 71";
 		rLen = 0;
-		rLoc = 1692;
+		rLoc = 1654;
 		rType = 0;
 		vrLen = 761;
 		vrLoc = 1049;
@@ -4501,7 +6598,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 231";
 		rLen = 0;
-		rLoc = 7690;
+		rLoc = 7642;
 		rType = 0;
 		vrLen = 1779;
 		vrLoc = 6383;
@@ -4528,7 +6625,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 193";
 		rLen = 0;
-		rLoc = 6520;
+		rLoc = 6595;
 		rType = 0;
 		vrLen = 1499;
 		vrLoc = 5481;
@@ -4558,7 +6655,7 @@
 		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
 		name = "VenueDetailViewController.h: 17";
 		rLen = 0;
-		rLoc = 519;
+		rLoc = 406;
 		rType = 0;
 		vrLen = 486;
 		vrLoc = 0;
@@ -4568,7 +6665,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 90";
 		rLen = 0;
-		rLoc = 2424;
+		rLoc = 2386;
 		rType = 0;
 		vrLen = 1047;
 		vrLoc = 1189;
@@ -4578,7 +6675,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 91";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2382;
 		rType = 0;
 		vrLen = 1450;
 		vrLoc = 1598;
@@ -4588,7 +6685,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 91";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2382;
 		rType = 0;
 		vrLen = 1325;
 		vrLoc = 1598;
@@ -4618,7 +6715,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 16";
 		rLen = 0;
-		rLoc = 375;
+		rLoc = 417;
 		rType = 0;
 		vrLen = 1385;
 		vrLoc = 3205;
@@ -4628,7 +6725,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 16";
 		rLen = 0;
-		rLoc = 407;
+		rLoc = 449;
 		rType = 0;
 		vrLen = 1126;
 		vrLoc = 0;
@@ -4638,7 +6735,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 16";
 		rLen = 0;
-		rLoc = 407;
+		rLoc = 449;
 		rType = 0;
 		vrLen = 1126;
 		vrLoc = 0;
@@ -4648,7 +6745,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 91";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2382;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 1597;
@@ -4658,7 +6755,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 201";
 		rLen = 56;
-		rLoc = 6382;
+		rLoc = 6334;
 		rType = 0;
 		vrLen = 1751;
 		vrLoc = 6160;
@@ -4718,7 +6815,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 201";
 		rLen = 56;
-		rLoc = 6382;
+		rLoc = 6334;
 		rType = 0;
 		vrLen = 1751;
 		vrLoc = 6160;
@@ -4738,7 +6835,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 81";
 		rLen = 0;
-		rLoc = 2434;
+		rLoc = 2456;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 1861;
@@ -4775,16 +6872,16 @@
 	};
 	C9B512781366E009003598D8 /* VenueNameViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
-			sepNavSelRange = "{334, 0}";
-			sepNavVisRange = "{0, 535}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{392, 0}";
+			sepNavVisRange = "{0, 398}";
 		};
 	};
 	C9B512791366E009003598D8 /* VenueNameViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1157}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{1178, 990}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1209}}";
+			sepNavSelRange = "{2161, 0}";
+			sepNavVisRange = "{1435, 848}";
 		};
 	};
 	C9B5127E1366E010003598D8 /* PBXTextBookmark */ = {
@@ -4812,7 +6909,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 91";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2382;
 		rType = 0;
 		vrLen = 1450;
 		vrLoc = 1598;
@@ -4822,7 +6919,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 91";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2382;
 		rType = 0;
 		vrLen = 1450;
 		vrLoc = 1598;
@@ -4832,7 +6929,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 91";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2382;
 		rType = 0;
 		vrLen = 1450;
 		vrLoc = 1598;
@@ -4842,7 +6939,7 @@
 		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
 		name = "VenueNameViewController.h: 15";
 		rLen = 0;
-		rLoc = 366;
+		rLoc = 311;
 		rType = 0;
 		vrLen = 408;
 		vrLoc = 0;
@@ -4852,7 +6949,7 @@
 		comments = "'tableView' undeclared (first use in this function)";
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		rLen = 1;
-		rLoc = 35;
+		rLoc = 34;
 		rType = 1;
 	};
 	C9B512931366E1C5003598D8 /* PBXTextBookmark */ = {
@@ -4860,7 +6957,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 35";
 		rLen = 0;
-		rLoc = 777;
+		rLoc = 739;
 		rType = 0;
 		vrLen = 589;
 		vrLoc = 397;
@@ -4890,7 +6987,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 201";
 		rLen = 56;
-		rLoc = 6382;
+		rLoc = 6334;
 		rType = 0;
 		vrLen = 1751;
 		vrLoc = 6160;
@@ -4900,7 +6997,7 @@
 		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
 		name = "VenueNameViewController.h: 20";
 		rLen = 0;
-		rLoc = 504;
+		rLoc = 391;
 		rType = 0;
 		vrLen = 535;
 		vrLoc = 0;
@@ -4920,7 +7017,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1688;
+		rLoc = 1691;
 		rType = 0;
 		vrLen = 862;
 		vrLoc = 1386;
@@ -4930,7 +7027,7 @@
 		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
 		name = "VenueNameViewController.m: 78";
 		rLen = 0;
-		rLoc = 2130;
+		rLoc = 2160;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 0;
@@ -4950,7 +7047,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 35";
 		rLen = 0;
-		rLoc = 799;
+		rLoc = 761;
 		rType = 0;
 		vrLen = 1219;
 		vrLoc = 1499;
@@ -4960,23 +7057,23 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 89";
 		rLen = 0;
-		rLoc = 2258;
+		rLoc = 2220;
 		rType = 0;
 		vrLen = 1236;
 		vrLoc = 1504;
 	};
 	C9B512A11366E2F8003598D8 /* AddEventVenueController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 537}}";
-			sepNavSelRange = "{721, 20}";
-			sepNavVisRange = "{0, 918}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{446, 0}";
+			sepNavVisRange = "{0, 769}";
 		};
 	};
 	C9B512A21366E2F8003598D8 /* AddEventVenueController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2343, 2990}}";
-			sepNavSelRange = "{6516, 0}";
-			sepNavVisRange = "{6025, 1204}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 3224}}";
+			sepNavSelRange = "{312, 0}";
+			sepNavVisRange = "{210, 972}";
 		};
 	};
 	C9B512A71366E301003598D8 /* PBXTextBookmark */ = {
@@ -4984,7 +7081,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 89";
 		rLen = 0;
-		rLoc = 2258;
+		rLoc = 2220;
 		rType = 0;
 		vrLen = 1238;
 		vrLoc = 1504;
@@ -5004,7 +7101,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 21";
 		rLen = 0;
-		rLoc = 418;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 1310;
 		vrLoc = 3592;
@@ -5069,7 +7166,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 36";
 		rLen = 0;
-		rLoc = 929;
+		rLoc = 950;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 478;
@@ -5079,7 +7176,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 36";
 		rLen = 0;
-		rLoc = 929;
+		rLoc = 950;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 478;
@@ -5089,7 +7186,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 35";
 		rLen = 0;
-		rLoc = 777;
+		rLoc = 739;
 		rType = 0;
 		vrLen = 589;
 		vrLoc = 397;
@@ -5135,7 +7232,7 @@
 		comments = "Request for member 'venue' in something not a structure or union";
 		fRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */;
 		rLen = 1;
-		rLoc = 248;
+		rLoc = 244;
 		rType = 1;
 	};
 	C9B512BE1366E78C003598D8 /* PBXTextBookmark */ = {
@@ -5153,7 +7250,7 @@
 		comments = "Request for member 'venue' in something not a structure or union";
 		fRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */;
 		rLen = 1;
-		rLoc = 248;
+		rLoc = 244;
 		rType = 1;
 	};
 	C9B512C21366E7A1003598D8 /* PBXTextBookmark */ = {
@@ -5171,7 +7268,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 36";
 		rLen = 0;
-		rLoc = 929;
+		rLoc = 950;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 478;
@@ -5181,7 +7278,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 25";
 		rLen = 0;
-		rLoc = 584;
+		rLoc = 606;
 		rType = 0;
 		vrLen = 1220;
 		vrLoc = 0;
@@ -5201,7 +7298,7 @@
 		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
 		name = "VenueNameViewController.m: 19";
 		rLen = 258;
-		rLoc = 474;
+		rLoc = 477;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 0;
@@ -5221,7 +7318,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 22";
 		rLen = 0;
-		rLoc = 526;
+		rLoc = 568;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 0;
@@ -5231,7 +7328,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 137";
 		rLen = 0;
-		rLoc = 4138;
+		rLoc = 4211;
 		rType = 0;
 		vrLen = 1047;
 		vrLoc = 0;
@@ -5241,7 +7338,7 @@
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 89";
 		rLen = 0;
-		rLoc = 2258;
+		rLoc = 2220;
 		rType = 0;
 		vrLen = 1239;
 		vrLoc = 1503;
@@ -5251,7 +7348,7 @@
 		fRef = C9B512A11366E2F8003598D8 /* AddEventVenueController.h */;
 		name = "AddEventVenueController.h: 19";
 		rLen = 0;
-		rLoc = 532;
+		rLoc = 472;
 		rType = 0;
 		vrLen = 883;
 		vrLoc = 0;
@@ -5261,7 +7358,7 @@
 		fRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */;
 		name = "EventDetailViewController.m: 253";
 		rLen = 0;
-		rLoc = 7640;
+		rLoc = 7383;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 6442;
@@ -5271,7 +7368,7 @@
 		fRef = C9B512781366E009003598D8 /* VenueNameViewController.h */;
 		name = "VenueNameViewController.h: 14";
 		rLen = 0;
-		rLoc = 360;
+		rLoc = 309;
 		rType = 0;
 		vrLen = 535;
 		vrLoc = 0;
@@ -5291,7 +7388,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 16";
 		rLen = 0;
-		rLoc = 419;
+		rLoc = 376;
 		rType = 0;
 		vrLen = 1032;
 		vrLoc = 4034;
@@ -5301,7 +7398,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 16";
 		rLen = 0;
-		rLoc = 419;
+		rLoc = 376;
 		rType = 0;
 		vrLen = 1027;
 		vrLoc = 4033;
@@ -5321,7 +7418,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 148";
 		rLen = 0;
-		rLoc = 5121;
+		rLoc = 5078;
 		rType = 0;
 		vrLen = 1701;
 		vrLoc = 2665;
@@ -5351,7 +7448,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 200";
 		rLen = 0;
-		rLoc = 6381;
+		rLoc = 6333;
 		rType = 0;
 		vrLen = 1791;
 		vrLoc = 5922;
@@ -5361,7 +7458,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 16";
 		rLen = 0;
-		rLoc = 339;
+		rLoc = 381;
 		rType = 0;
 		vrLen = 1434;
 		vrLoc = 2035;
@@ -5381,7 +7478,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 92";
 		rLen = 0;
-		rLoc = 2494;
+		rLoc = 2629;
 		rType = 0;
 		vrLen = 1434;
 		vrLoc = 2035;
@@ -5426,7 +7523,7 @@
 		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
 		name = "VenueNameViewController.m: 20";
 		rLen = 0;
-		rLoc = 579;
+		rLoc = 582;
 		rType = 0;
 		vrLen = 1176;
 		vrLoc = 0;
@@ -5456,7 +7553,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 31";
 		rLen = 0;
-		rLoc = 913;
+		rLoc = 870;
 		rType = 0;
 		vrLen = 999;
 		vrLoc = 0;
@@ -5485,7 +7582,7 @@
 		isa = PBXTextBookmark;
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		rLen = 1;
-		rLoc = 67;
+		rLoc = 66;
 		rType = 1;
 	};
 	C9B512FA1366E987003598D8 /* PBXTextBookmark */ = {
@@ -5493,7 +7590,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 74";
 		rLen = 0;
-		rLoc = 2032;
+		rLoc = 1989;
 		rType = 0;
 		vrLen = 1368;
 		vrLoc = 1559;
@@ -5515,7 +7612,7 @@
 	C9B5130713680D98003598D8 /* Venue.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavSelRange = "{283, 0}";
 			sepNavVisRange = "{0, 660}";
 		};
 	};
@@ -5542,16 +7639,16 @@
 	};
 	C9B5130F13680DE1003598D8 /* MembersViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {822, 537}}";
-			sepNavSelRange = "{520, 20}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
+			sepNavSelRange = "{515, 0}";
 			sepNavVisRange = "{0, 717}";
 		};
 	};
 	C9B5131013680DE1003598D8 /* MembersViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2371, 4316}}";
-			sepNavSelRange = "{1575, 0}";
-			sepNavVisRange = "{883, 1082}";
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 4342}}";
+			sepNavSelRange = "{6355, 0}";
+			sepNavVisRange = "{5676, 1003}";
 		};
 	};
 	C9B5131513680DED003598D8 /* PBXTextBookmark */ = {
@@ -5559,7 +7656,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 76";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 1991;
 		rType = 0;
 		vrLen = 1412;
 		vrLoc = 1559;
@@ -5613,7 +7710,7 @@
 		isa = PBXTextBookmark;
 		fRef = C9B5130F13680DE1003598D8 /* MembersViewController.h */;
 		rLen = 0;
-		rLoc = 9223372036854775808;
+		rLoc = 717;
 		rType = 0;
 	};
 	C9B5131C13680DED003598D8 /* PBXTextBookmark */ = {
@@ -5628,16 +7725,16 @@
 	};
 	C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {822, 537}}";
-			sepNavSelRange = "{602, 0}";
-			sepNavVisRange = "{0, 609}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
+			sepNavSelRange = "{318, 0}";
+			sepNavVisRange = "{0, 471}";
 		};
 	};
 	C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1443}}";
-			sepNavSelRange = "{981, 0}";
-			sepNavVisRange = "{825, 1176}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1495}}";
+			sepNavSelRange = "{293, 0}";
+			sepNavVisRange = "{3, 992}";
 		};
 	};
 	C9B51327136811D3003598D8 /* PBXTextBookmark */ = {
@@ -5655,7 +7752,7 @@
 		comments = "'Members' undeclared (first use in this function)";
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		rLen = 1;
-		rLoc = 65;
+		rLoc = 70;
 		rType = 1;
 	};
 	C9B51329136811D3003598D8 /* PBXTextBookmark */ = {
@@ -5663,7 +7760,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 65";
 		rLen = 0;
-		rLoc = 1717;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 1406;
 		vrLoc = 1032;
@@ -5673,7 +7770,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 65";
 		rLen = 0;
-		rLoc = 1717;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 1376;
 		vrLoc = 1032;
@@ -5723,7 +7820,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 327";
 		rLen = 0;
-		rLoc = 11277;
+		rLoc = 11229;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 1888;
@@ -5738,7 +7835,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 302";
 		rLen = 0;
-		rLoc = 10854;
+		rLoc = 10866;
 		rType = 0;
 		vrLen = 1124;
 		vrLoc = 10222;
@@ -5748,7 +7845,7 @@
 		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
 		name = "VenueDetailViewController.h: 18";
 		rLen = 0;
-		rLoc = 419;
+		rLoc = 364;
 		rType = 0;
 		vrLen = 519;
 		vrLoc = 0;
@@ -5757,7 +7854,7 @@
 		isa = PBXTextBookmark;
 		fRef = C9B512231366DB23003598D8 /* VenueDetailViewController.m */;
 		name = "VenueDetailViewController.m: 14";
-		rLen = 56;
+		rLen = 18;
 		rLoc = 330;
 		rType = 0;
 		vrLen = 850;
@@ -5768,7 +7865,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 16";
 		rLen = 0;
-		rLoc = 498;
+		rLoc = 443;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 0;
@@ -5778,7 +7875,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 14";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 321;
 		rType = 0;
 		vrLen = 1166;
 		vrLoc = 0;
@@ -5788,7 +7885,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 17";
 		rLen = 0;
-		rLoc = 1052;
+		rLoc = 1117;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 59;
@@ -5798,7 +7895,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 65";
 		rLen = 0;
-		rLoc = 1717;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 1376;
 		vrLoc = 1032;
@@ -5808,7 +7905,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 37";
 		rLen = 0;
-		rLoc = 2157;
+		rLoc = 2222;
 		rType = 0;
 		vrLen = 1188;
 		vrLoc = 176;
@@ -5818,7 +7915,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 24";
 		rLen = 0;
-		rLoc = 1413;
+		rLoc = 1478;
 		rType = 0;
 		vrLen = 968;
 		vrLoc = 640;
@@ -5828,7 +7925,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 16";
 		rLen = 0;
-		rLoc = 498;
+		rLoc = 443;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 0;
@@ -5838,7 +7935,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 17";
 		rLen = 0;
-		rLoc = 452;
+		rLoc = 397;
 		rType = 0;
 		vrLen = 589;
 		vrLoc = 0;
@@ -5848,7 +7945,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 22";
 		rLen = 0;
-		rLoc = 545;
+		rLoc = 587;
 		rType = 0;
 		vrLen = 947;
 		vrLoc = 0;
@@ -5858,7 +7955,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 22";
 		rLen = 0;
-		rLoc = 602;
+		rLoc = 464;
 		rType = 0;
 		vrLen = 609;
 		vrLoc = 0;
@@ -5868,7 +7965,7 @@
 		fRef = C9B512791366E009003598D8 /* VenueNameViewController.m */;
 		name = "VenueNameViewController.m: 61";
 		rLen = 0;
-		rLoc = 1732;
+		rLoc = 1698;
 		rType = 0;
 		vrLen = 826;
 		vrLoc = 1310;
@@ -5878,7 +7975,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 29";
 		rLen = 0;
-		rLoc = 677;
+		rLoc = 742;
 		rType = 0;
 		vrLen = 1059;
 		vrLoc = 217;
@@ -5958,7 +8055,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 22";
 		rLen = 0;
-		rLoc = 545;
+		rLoc = 587;
 		rType = 0;
 		vrLen = 1170;
 		vrLoc = 503;
@@ -6018,7 +8115,7 @@
 		fRef = C9B511F61366D770003598D8 /* VenuesViewController.m */;
 		name = "VenuesViewController.m: 13";
 		rLen = 0;
-		rLoc = 297;
+		rLoc = 339;
 		rType = 0;
 		vrLen = 967;
 		vrLoc = 0;
@@ -6038,7 +8135,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 22";
 		rLen = 0;
-		rLoc = 545;
+		rLoc = 587;
 		rType = 0;
 		vrLen = 941;
 		vrLoc = 3;
@@ -6048,7 +8145,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 20";
 		rLen = 0;
-		rLoc = 478;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 1024;
 		vrLoc = 31;
@@ -6058,7 +8155,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 20";
 		rLen = 0;
-		rLoc = 478;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 1107;
 		vrLoc = 31;
@@ -6068,7 +8165,7 @@
 		fRef = C9B512221366DB23003598D8 /* VenueDetailViewController.h */;
 		name = "VenueDetailViewController.h: 18";
 		rLen = 0;
-		rLoc = 419;
+		rLoc = 364;
 		rType = 0;
 		vrLen = 519;
 		vrLoc = 0;
@@ -6098,7 +8195,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 66";
 		rLen = 0;
-		rLoc = 1717;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 1022;
 		vrLoc = 972;
@@ -6108,7 +8205,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 66";
 		rLen = 0;
-		rLoc = 1717;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 1022;
 		vrLoc = 972;
@@ -6128,7 +8225,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 22";
 		rLen = 0;
-		rLoc = 602;
+		rLoc = 464;
 		rType = 0;
 		vrLen = 609;
 		vrLoc = 0;
@@ -6138,7 +8235,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 42";
 		rLen = 0;
-		rLoc = 929;
+		rLoc = 994;
 		rType = 0;
 		vrLen = 873;
 		vrLoc = 0;
@@ -6148,7 +8245,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 42";
 		rLen = 0;
-		rLoc = 929;
+		rLoc = 994;
 		rType = 0;
 		vrLen = 927;
 		vrLoc = 3;
@@ -6158,7 +8255,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 63";
 		rLen = 0;
-		rLoc = 1639;
+		rLoc = 1704;
 		rType = 0;
 		vrLen = 1312;
 		vrLoc = 1022;
@@ -6168,24 +8265,24 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 63";
 		rLen = 0;
-		rLoc = 1639;
+		rLoc = 1704;
 		rType = 0;
 		vrLen = 873;
 		vrLoc = 0;
 	};
 	C9B5139613681B0A003598D8 /* AddEventAttendeesController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
-			sepNavSelRange = "{580, 0}";
-			sepNavVisRange = "{0, 818}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{424, 0}";
+			sepNavVisRange = "{0, 675}";
 		};
 	};
 	C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{5018, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{5069, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{5119, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5858}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 2600}}";
-			sepNavSelRange = "{386, 0}";
-			sepNavVisRange = "{280, 1320}";
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4952, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{5003, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{5053, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5792}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 2626}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{0, 1267}";
 		};
 	};
 	C9B5139C13681B16003598D8 /* PBXTextBookmark */ = {
@@ -6193,7 +8290,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 47";
 		rLen = 0;
-		rLoc = 981;
+		rLoc = 1046;
 		rType = 0;
 		vrLen = 1185;
 		vrLoc = 761;
@@ -6213,7 +8310,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 25";
 		rLen = 0;
-		rLoc = 659;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 682;
 		vrLoc = 0;
@@ -6223,7 +8320,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 25";
 		rLen = 0;
-		rLoc = 659;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 682;
 		vrLoc = 0;
@@ -6233,7 +8330,7 @@
 		fRef = C9B511461366CB46003598D8 /* AddEventDateController.h */;
 		name = "AddEventDateController.h: 25";
 		rLen = 0;
-		rLoc = 659;
+		rLoc = 520;
 		rType = 0;
 		vrLen = 682;
 		vrLoc = 0;
@@ -6243,7 +8340,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 20";
 		rLen = 0;
-		rLoc = 528;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 537;
 		vrLoc = 0;
@@ -6273,7 +8370,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 25";
 		rLen = 0;
-		rLoc = 615;
+		rLoc = 657;
 		rType = 0;
 		vrLen = 1084;
 		vrLoc = 54;
@@ -6283,7 +8380,7 @@
 		fRef = C9B512A11366E2F8003598D8 /* AddEventVenueController.h */;
 		name = "AddEventVenueController.h: 26";
 		rLen = 0;
-		rLoc = 870;
+		rLoc = 721;
 		rType = 0;
 		vrLen = 918;
 		vrLoc = 0;
@@ -6313,7 +8410,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 22";
 		rLen = 0;
-		rLoc = 526;
+		rLoc = 568;
 		rType = 0;
 		vrLen = 1162;
 		vrLoc = 0;
@@ -6373,7 +8470,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 22";
 		rLen = 0;
-		rLoc = 602;
+		rLoc = 464;
 		rType = 0;
 		vrLen = 609;
 		vrLoc = 0;
@@ -6383,7 +8480,7 @@
 		fRef = C9B5139613681B0A003598D8 /* AddEventAttendeesController.h */;
 		name = "AddEventMembersController.h: 27";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 570;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 0;
@@ -6393,7 +8490,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventMembersController.m: 95";
 		rLen = 0;
-		rLoc = 3378;
+		rLoc = 3312;
 		rType = 0;
 		vrLen = 1434;
 		vrLoc = 2182;
@@ -6403,7 +8500,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventMembersController.m: 71";
 		rLen = 0;
-		rLoc = 2467;
+		rLoc = 2401;
 		rType = 0;
 		vrLen = 1080;
 		vrLoc = 1123;
@@ -6413,7 +8510,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 66";
 		rLen = 0;
-		rLoc = 1717;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 1200;
 		vrLoc = 972;
@@ -6423,7 +8520,7 @@
 		comments = "'NSSet' may not respond to '-objectAtIndex:'";
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		rLen = 1;
-		rLoc = 112;
+		rLoc = 111;
 		rType = 1;
 	};
 	C9B513BC13682134003598D8 /* PBXTextBookmark */ = {
@@ -6431,23 +8528,23 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventMembersController.m: 98";
 		rLen = 0;
-		rLoc = 3241;
+		rLoc = 3175;
 		rType = 0;
 		vrLen = 1414;
 		vrLoc = 2128;
 	};
 	C9B513C11368218A003598D8 /* SelectEventAttendeesController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 536}}";
-			sepNavSelRange = "{527, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 513}}";
+			sepNavSelRange = "{663, 24}";
 			sepNavVisRange = "{0, 800}";
 		};
 	};
 	C9B513C21368218A003598D8 /* SelectEventAttendeesController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 3380}}";
-			sepNavSelRange = "{5588, 0}";
-			sepNavVisRange = "{5097, 1262}";
+			sepNavIntBoundsRect = "{{0, 0}, {1545, 3484}}";
+			sepNavSelRange = "{5941, 0}";
+			sepNavVisRange = "{5560, 1616}";
 		};
 	};
 	C9B513C81368220E003598D8 /* PBXTextBookmark */ = {
@@ -6455,7 +8552,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 98";
 		rLen = 0;
-		rLoc = 3241;
+		rLoc = 3175;
 		rType = 0;
 		vrLen = 1324;
 		vrLoc = 2134;
@@ -6503,7 +8600,7 @@
 		fRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */;
 		name = "EventDetailViewController.m: 255";
 		rLen = 0;
-		rLoc = 7441;
+		rLoc = 7184;
 		rType = 0;
 		vrLen = 1254;
 		vrLoc = 0;
@@ -6513,7 +8610,7 @@
 		fRef = C9B512A11366E2F8003598D8 /* AddEventVenueController.h */;
 		name = "AddEventVenueController.h: 26";
 		rLen = 0;
-		rLoc = 870;
+		rLoc = 721;
 		rType = 0;
 		vrLen = 918;
 		vrLoc = 0;
@@ -6533,7 +8630,7 @@
 		fRef = C9B5139613681B0A003598D8 /* AddEventAttendeesController.h */;
 		name = "AddEventAttendeesController.h: 32";
 		rLen = 0;
-		rLoc = 812;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 891;
 		vrLoc = 0;
@@ -6543,7 +8640,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 26";
 		rLen = 0;
-		rLoc = 1002;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 1140;
 		vrLoc = 0;
@@ -6553,7 +8650,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 35";
 		rLen = 0;
-		rLoc = 1333;
+		rLoc = 1267;
 		rType = 0;
 		vrLen = 1083;
 		vrLoc = 366;
@@ -6563,7 +8660,7 @@
 		comments = "'composeItem' undeclared (first use in this function)";
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		rLen = 0;
-		rLoc = 40;
+		rLoc = 39;
 		rType = 1;
 	};
 	C9B513EF1368246F003598D8 /* PBXTextBookmark */ = {
@@ -6571,7 +8668,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 47";
 		rLen = 0;
-		rLoc = 1332;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 918;
 		vrLoc = 1074;
@@ -6591,7 +8688,7 @@
 		comments = "'composeItem' undeclared (first use in this function)";
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		rLen = 0;
-		rLoc = 40;
+		rLoc = 39;
 		rType = 1;
 	};
 	C9B513F413682472003598D8 /* PBXTextBookmark */ = {
@@ -6599,7 +8696,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 42";
 		rLen = 0;
-		rLoc = 1332;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 1219;
 		vrLoc = 566;
@@ -6609,7 +8706,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 46";
 		rLen = 0;
-		rLoc = 1332;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 1204;
 		vrLoc = 592;
@@ -6619,7 +8716,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 41";
 		rLen = 0;
-		rLoc = 1332;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 1252;
 		vrLoc = 566;
@@ -6639,7 +8736,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 45";
 		rLen = 0;
-		rLoc = 1163;
+		rLoc = 1352;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 383;
@@ -6659,7 +8756,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 62";
 		rLen = 0;
-		rLoc = 1688;
+		rLoc = 1691;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 1386;
@@ -6669,7 +8766,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 39";
 		rLen = 0;
-		rLoc = 1043;
+		rLoc = 1046;
 		rType = 0;
 		vrLen = 1219;
 		vrLoc = 250;
@@ -6679,7 +8776,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 50";
 		rLen = 0;
-		rLoc = 1374;
+		rLoc = 1563;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 383;
@@ -6699,7 +8796,7 @@
 		fRef = C9B510651366B536003598D8 /* AddEventNameController.m */;
 		name = "AddEventNameController.m: 33";
 		rLen = 0;
-		rLoc = 894;
+		rLoc = 897;
 		rType = 0;
 		vrLen = 1223;
 		vrLoc = 250;
@@ -6709,7 +8806,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 71";
 		rLen = 0;
-		rLoc = 1977;
+		rLoc = 1998;
 		rType = 0;
 		vrLen = 1302;
 		vrLoc = 1041;
@@ -6719,7 +8816,7 @@
 		fRef = C9B511871366D0C8003598D8 /* AddEventTypeController.m */;
 		name = "AddEventTypeController.m: 54";
 		rLen = 0;
-		rLoc = 1582;
+		rLoc = 1604;
 		rType = 0;
 		vrLen = 1405;
 		vrLoc = 326;
@@ -6729,7 +8826,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 38";
 		rLen = 0;
-		rLoc = 1044;
+		rLoc = 1001;
 		rType = 0;
 		vrLen = 1090;
 		vrLoc = 0;
@@ -6739,7 +8836,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 65";
 		rLen = 0;
-		rLoc = 1686;
+		rLoc = 1620;
 		rType = 0;
 		vrLen = 770;
 		vrLoc = 1362;
@@ -6779,7 +8876,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 65";
 		rLen = 0;
-		rLoc = 1686;
+		rLoc = 1620;
 		rType = 0;
 		vrLen = 765;
 		vrLoc = 1362;
@@ -6789,7 +8886,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 46";
 		rLen = 0;
-		rLoc = 1332;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 702;
@@ -6799,7 +8896,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 38";
 		rLen = 0;
-		rLoc = 1044;
+		rLoc = 1001;
 		rType = 0;
 		vrLen = 1090;
 		vrLoc = 0;
@@ -6809,7 +8906,7 @@
 		fRef = C9B5139613681B0A003598D8 /* AddEventAttendeesController.h */;
 		name = "AddEventAttendeesController.h: 30";
 		rLen = 0;
-		rLoc = 812;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 869;
 		vrLoc = 0;
@@ -6819,7 +8916,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 34";
 		rLen = 0;
-		rLoc = 1332;
+		rLoc = 1266;
 		rType = 0;
 		vrLen = 1047;
 		vrLoc = 542;
@@ -6849,7 +8946,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 25";
 		rLen = 0;
-		rLoc = 737;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 1333;
 		vrLoc = 409;
@@ -6887,7 +8984,7 @@
 		comments = "'managedObjectContext' undeclared (first use in this function)";
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		rLen = 1;
-		rLoc = 23;
+		rLoc = 22;
 		rType = 1;
 	};
 	C9B5143013682A54003598D8 /* PBXTextBookmark */ = {
@@ -6895,7 +8992,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 25";
 		rLen = 0;
-		rLoc = 737;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 1333;
 		vrLoc = 409;
@@ -6905,7 +9002,7 @@
 		fRef = C9B5131E13680FAF003598D8 /* MemberDetailViewController.m */;
 		name = "MemberDetailViewController.m: 47";
 		rLen = 0;
-		rLoc = 981;
+		rLoc = 1046;
 		rType = 0;
 		vrLen = 1176;
 		vrLoc = 825;
@@ -6915,7 +9012,7 @@
 		fRef = C9B5131D13680FAF003598D8 /* MemberDetailViewController.h */;
 		name = "MemberDetailViewController.h: 22";
 		rLen = 0;
-		rLoc = 602;
+		rLoc = 464;
 		rType = 0;
 		vrLen = 609;
 		vrLoc = 0;
@@ -6935,7 +9032,7 @@
 		fRef = C9B5131013680DE1003598D8 /* MembersViewController.m */;
 		name = "MembersViewController.m: 62";
 		rLen = 0;
-		rLoc = 1575;
+		rLoc = 1775;
 		rType = 0;
 		vrLen = 1082;
 		vrLoc = 883;
@@ -6945,7 +9042,7 @@
 		fRef = C9B511861366D0C8003598D8 /* AddEventTypeController.h */;
 		name = "AddEventTypeController.h: 25";
 		rLen = 0;
-		rLoc = 628;
+		rLoc = 490;
 		rType = 0;
 		vrLen = 634;
 		vrLoc = 0;
@@ -6955,7 +9052,7 @@
 		fRef = C9B511471366CB46003598D8 /* AddEventDateController.m */;
 		name = "AddEventDateController.m: 71";
 		rLen = 0;
-		rLoc = 1977;
+		rLoc = 1998;
 		rType = 0;
 		vrLen = 1301;
 		vrLoc = 1041;
@@ -6965,7 +9062,7 @@
 		fRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */;
 		name = "EventDetailViewController.m: 250";
 		rLen = 0;
-		rLoc = 7207;
+		rLoc = 6950;
 		rType = 0;
 		vrLen = 1174;
 		vrLoc = 6927;
@@ -6975,7 +9072,7 @@
 		fRef = C9B510641366B536003598D8 /* AddEventNameController.h */;
 		name = "AddEventNameController.h: 20";
 		rLen = 0;
-		rLoc = 528;
+		rLoc = 389;
 		rType = 0;
 		vrLen = 537;
 		vrLoc = 0;
@@ -6985,7 +9082,7 @@
 		fRef = C9B512A11366E2F8003598D8 /* AddEventVenueController.h */;
 		name = "AddEventVenueController.h: 23";
 		rLen = 20;
-		rLoc = 721;
+		rLoc = 572;
 		rType = 0;
 		vrLen = 918;
 		vrLoc = 0;
@@ -6995,7 +9092,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 29";
 		rLen = 0;
-		rLoc = 764;
+		rLoc = 721;
 		rType = 0;
 		vrLen = 1090;
 		vrLoc = 0;
@@ -7015,7 +9112,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 43";
 		rLen = 0;
-		rLoc = 1327;
+		rLoc = 1261;
 		rType = 0;
 		vrLen = 1392;
 		vrLoc = 323;
@@ -7075,7 +9172,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 26";
 		rLen = 0;
-		rLoc = 737;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 1351;
 		vrLoc = 451;
@@ -7153,7 +9250,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 43";
 		rLen = 0;
-		rLoc = 1327;
+		rLoc = 1261;
 		rType = 0;
 		vrLen = 1386;
 		vrLoc = 368;
@@ -7173,7 +9270,7 @@
 		fRef = C9B5139713681B0A003598D8 /* AddEventAttendeesController.m */;
 		name = "AddEventAttendeesController.m: 46";
 		rLen = 0;
-		rLoc = 1363;
+		rLoc = 1297;
 		rType = 0;
 		vrLen = 1244;
 		vrLoc = 2089;
@@ -7263,7 +9360,7 @@
 		fRef = C9B512A11366E2F8003598D8 /* AddEventVenueController.h */;
 		name = "AddEventVenueController.h: 23";
 		rLen = 20;
-		rLoc = 721;
+		rLoc = 572;
 		rType = 0;
 		vrLen = 918;
 		vrLoc = 0;
@@ -7273,7 +9370,7 @@
 		fRef = C9B512A21366E2F8003598D8 /* AddEventVenueController.m */;
 		name = "AddEventVenueController.m: 196";
 		rLen = 0;
-		rLoc = 6516;
+		rLoc = 6473;
 		rType = 0;
 		vrLen = 1204;
 		vrLoc = 6025;

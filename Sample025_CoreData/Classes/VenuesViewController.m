@@ -9,6 +9,7 @@
 #import "VenuesViewController.h"
 #import "Venue.h"
 #import "VenueDetailViewController.h"
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation VenuesViewController
 
@@ -29,6 +30,9 @@
     [addButton release];
 	
 	self.title = @"Venues";
+	
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
+	self.managedObjectContext = appdel.managedObjectContext;
 }
 
 
@@ -76,16 +80,16 @@
 - (void)addNewVenue {
     
     // Create a new instance of the entity managed by the fetched results controller.
-    NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+	
     //NSEntityDescription *entity = [[self.fetchedResultsController fetchRequest] entity];
-    Venue *venue = (Venue *)[NSEntityDescription insertNewObjectForEntityForName:@"Venue" inManagedObjectContext:context];
+    Venue *venue = (Venue *)[NSEntityDescription insertNewObjectForEntityForName:@"Venue" inManagedObjectContext:self.managedObjectContext];
     
     // If appropriate, configure the new managed object.
 	[venue setVenueName:@"New Venue"];
     
     // Save the context.
     NSError *error = nil;
-    if (![context save:&error]) {
+    if (![self.managedObjectContext save:&error]) {
         NSLog(@"Unresolved error %@, %@", error, [error userInfo]);
         //abort();
     }
@@ -94,7 +98,6 @@
 	
 	VenueDetailViewController *vc = [[VenueDetailViewController alloc] initWithNibName:@"VenueDetailViewController" bundle:[NSBundle mainBundle]];
 	vc.venue = venue;
-	vc.fetchedResultsController = self.fetchedResultsController;
 	
 	[self.navigationController pushViewController:vc animated:YES];
 	[vc release];
@@ -155,12 +158,12 @@
     
     if (editingStyle == UITableViewCellEditingStyleDelete) {
         // Delete the managed object for the given index path
-        NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
-        [context deleteObject:[self.fetchedResultsController objectAtIndexPath:indexPath]];
+
+        [self.managedObjectContext deleteObject:[self.fetchedResultsController objectAtIndexPath:indexPath]];
         
         // Save the context.
         NSError *error = nil;
-        if (![context save:&error]) {
+        if (![self.managedObjectContext save:&error]) {
             /*
              Replace this implementation with code to handle the error appropriately.
              
@@ -188,7 +191,6 @@
 	VenueDetailViewController *vc = [[VenueDetailViewController alloc] initWithNibName:@"VenueDetailViewController" bundle:[NSBundle mainBundle]];
 	
 	Venue *venue = (Venue *)[[self fetchedResultsController] objectAtIndexPath:indexPath];
-	vc.fetchedResultsController = self.fetchedResultsController;
 	vc.venue = venue;
 	
 	[self.navigationController pushViewController:vc animated:YES];

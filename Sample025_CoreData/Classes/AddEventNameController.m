@@ -7,12 +7,11 @@
 //
 
 #import "AddEventNameController.h"
-
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation AddEventNameController
 
 @synthesize event;
-@synthesize fetchedResultsController;
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 
@@ -66,7 +65,6 @@
 
 - (void)dealloc {
 	[event release];
-	[fetchedResultsController release];
     [super dealloc];
 }
 
@@ -76,11 +74,12 @@
 - (BOOL)textFieldShouldReturn:(UITextField *)txtField{
 	
 	self.event.eventName = txtField.text;
-	NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
 	
 	// Save the context.
 	NSError *error = nil;
-	if (![context save:&error]) {
+	if (![appdel.managedObjectContext save:&error]) {
 		
 		NSLog(@"Unresolved error %@, %@", error, [error userInfo]);
 		abort();

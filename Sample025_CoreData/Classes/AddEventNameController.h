@@ -11,14 +11,10 @@
 
 @interface AddEventNameController : UIViewController <UITextFieldDelegate> {
 	Event *event;
-	NSFetchedResultsController *fetchedResultsController;
 	
 	IBOutlet UITextField *textField;
 }
 
 @property (nonatomic,retain) Event *event;
-@property (nonatomic, retain) NSFetchedResultsController *fetchedResultsController;
-
-
 
 @end

@@ -7,12 +7,11 @@
 //
 
 #import "VenueNameViewController.h"
-
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation VenueNameViewController
 
 @synthesize venue;
-@synthesize fetchedResultsController;
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 
@@ -62,7 +61,6 @@
 
 - (void)dealloc {
 	[venue release];
-	[fetchedResultsController release];
     [super dealloc];
 }
 
@@ -72,7 +70,9 @@
 - (BOOL)textFieldShouldReturn:(UITextField *)txtField{
 	
 	self.venue.venueName = nameField.text;
-	NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+	
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
+	NSManagedObjectContext *context = appdel.managedObjectContext;
 	
 	// Save the context.
 	NSError *error = nil;

@@ -9,6 +9,7 @@
 #import "RootViewController.h"
 #import "Event.h"
 #import "EventDetailViewController.h"
+#import "Sample025_CoreDataAppDelegate.h"
 
 
 
@@ -40,6 +41,9 @@
 	[tabItem release];
 	
 	self.title = @"Events";
+	
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
+	self.managedObjectContext = appdel.managedObjectContext;
 }
 
 
@@ -97,9 +101,9 @@
 - (void)addNewEvent {
     
     // Create a new instance of the entity managed by the fetched results controller.
-    NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+
     //NSEntityDescription *entity = [[self.fetchedResultsController fetchRequest] entity];
-    Event *event = (Event *)[NSEntityDescription insertNewObjectForEntityForName:@"Event" inManagedObjectContext:context];
+    Event *event = (Event *)[NSEntityDescription insertNewObjectForEntityForName:@"Event" inManagedObjectContext:self.managedObjectContext];
     
     // If appropriate, configure the new managed object.
 	[event setEventName:@"New Event"];
@@ -108,7 +112,7 @@
     
     // Save the context.
     NSError *error = nil;
-    if (![context save:&error]) {
+    if (![self.managedObjectContext save:&error]) {
         NSLog(@"Unresolved error %@, %@", error, [error userInfo]);
         //abort();
     }
@@ -178,12 +182,12 @@
     
     if (editingStyle == UITableViewCellEditingStyleDelete) {
         // Delete the managed object for the given index path
-        NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
-        [context deleteObject:[self.fetchedResultsController objectAtIndexPath:indexPath]];
+
+        [self.managedObjectContext deleteObject:[self.fetchedResultsController objectAtIndexPath:indexPath]];
         
         // Save the context.
         NSError *error = nil;
-        if (![context save:&error]) {
+        if (![self.managedObjectContext save:&error]) {
             /*
              Replace this implementation with code to handle the error appropriately.
              

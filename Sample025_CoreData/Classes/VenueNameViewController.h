@@ -11,11 +11,10 @@
 
 @interface VenueNameViewController : UIViewController <UITextFieldDelegate> {
 	Venue *venue;
-	NSFetchedResultsController *fetchedResultsController;
 	
 	IBOutlet UITextField *nameField;
 }
 
 @property (nonatomic,retain) Venue *venue;
-@property (nonatomic,retain) NSFetchedResultsController *fetchedResultsController;
+
 @end

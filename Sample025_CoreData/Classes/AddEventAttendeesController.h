@@ -18,7 +18,6 @@
 	NSArray *members;
 	
 @private
-    NSFetchedResultsController *fetchedResultsController_;
     NSManagedObjectContext *managedObjectContext_;
 }
 @property (nonatomic, retain) Event *event;
@@ -26,7 +25,6 @@
 @property (nonatomic, retain) NSArray *members;
 
 @property (nonatomic, retain) NSManagedObjectContext *managedObjectContext;
-@property (nonatomic, retain) NSFetchedResultsController *fetchedResultsController;
 
 - (void)editMembers;
 

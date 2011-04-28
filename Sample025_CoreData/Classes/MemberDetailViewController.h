@@ -11,13 +11,11 @@
 
 @interface MemberDetailViewController : UIViewController <UITextFieldDelegate> {
 	Member *member;
-	NSFetchedResultsController *fetchedResultsController;
 	
 	IBOutlet UITextField *firstNameField;
 	IBOutlet UITextField *lastNameField;
 }
 @property (nonatomic,retain) Member *member;
-@property (nonatomic,retain) NSFetchedResultsController *fetchedResultsController;
 
 -(void)saveMember;
 
