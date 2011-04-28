@@ -9,6 +9,7 @@
 #import "MembersViewController.h"
 #import "Member.h"
 #import "MemberDetailViewController.h"
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation MembersViewController
 
@@ -28,6 +29,10 @@
     [addButton release];
 	
 	self.title = @"Members";
+	
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
+	self.managedObjectContext = appdel.managedObjectContext;
+										
 }
 
 /*
@@ -75,9 +80,9 @@
 - (void)addNewMember {
     
     // Create a new instance of the entity managed by the fetched results controller.
-    NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+
     //NSEntityDescription *entity = [[self.fetchedResultsController fetchRequest] entity];
-    Member *member = (Member *)[NSEntityDescription insertNewObjectForEntityForName:@"Member" inManagedObjectContext:context];
+    Member *member = (Member *)[NSEntityDescription insertNewObjectForEntityForName:@"Member" inManagedObjectContext:self.managedObjectContext];
     
     // If appropriate, configure the new managed object.
 	[member setFirstName:@"New"];
@@ -85,7 +90,7 @@
     
     // Save the context.
     NSError *error = nil;
-    if (![context save:&error]) {
+    if (![self.managedObjectContext save:&error]) {
         NSLog(@"Unresolved error %@, %@", error, [error userInfo]);
         //abort();
     }
@@ -94,7 +99,6 @@
 	
 	MemberDetailViewController *vc = [[MemberDetailViewController alloc] initWithNibName:@"MemberDetailViewController" bundle:[NSBundle mainBundle]];
 	vc.member = member;
-	vc.fetchedResultsController = self.fetchedResultsController;
 	
 	[self.navigationController pushViewController:vc animated:YES];
 	[vc release];
@@ -155,12 +159,12 @@
     
     if (editingStyle == UITableViewCellEditingStyleDelete) {
         // Delete the managed object for the given index path
-        NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+        NSManagedObjectContext *context = self.managedObjectContext;
         [context deleteObject:[self.fetchedResultsController objectAtIndexPath:indexPath]];
         
         // Save the context.
         NSError *error = nil;
-        if (![context save:&error]) {
+        if (![self.managedObjectContext save:&error]) {
             /*
              Replace this implementation with code to handle the error appropriately.
              
@@ -188,7 +192,6 @@
 	MemberDetailViewController *vc = [[MemberDetailViewController alloc] initWithNibName:@"MemberDetailViewController" bundle:[NSBundle mainBundle]];
 	
 	Member *member = (Member *)[[self fetchedResultsController] objectAtIndexPath:indexPath];
-	vc.fetchedResultsController = self.fetchedResultsController;
 	vc.member = member;
 	
 	[self.navigationController pushViewController:vc animated:YES];

@@ -11,7 +11,6 @@
 
 @interface AddEventTypeController : UIViewController<UIPickerViewDelegate,UIPickerViewDataSource> {
 	Event *event;
-	NSFetchedResultsController *fetchedResultsController;
 	
 	IBOutlet UIPickerView *typePicker;
 	IBOutlet UITextField *typeField;
@@ -19,7 +18,6 @@
 	NSArray *eventTypes;
 }
 @property (nonatomic,retain) Event *event;
-@property (nonatomic,retain) NSFetchedResultsController *fetchedResultsController;
 
 -(void)saveType;
 

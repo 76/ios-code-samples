@@ -11,14 +11,12 @@
 
 @interface AddEventVenueController : UITableViewController <UITextFieldDelegate,NSFetchedResultsControllerDelegate> {
 	Event *event;
-	NSFetchedResultsController *eventFetchedResultsController;
 	
 @private
     NSFetchedResultsController *fetchedResultsController_;
     NSManagedObjectContext *managedObjectContext_;
 }
 @property (nonatomic, retain) Event *event;
-@property (nonatomic, retain) NSFetchedResultsController *eventFetchedResultsController;
 
 @property (nonatomic, retain) NSManagedObjectContext *managedObjectContext;
 @property (nonatomic, retain) NSFetchedResultsController *fetchedResultsController;

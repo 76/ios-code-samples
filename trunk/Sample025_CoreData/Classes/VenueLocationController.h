@@ -10,21 +10,39 @@
 #import <CoreLocation/CoreLocation.h>
 #import <MapKit/MapKit.h>
 #import "Venue.h"
+#import "BSForwardGeocoder.h"
+#import "BSKmlResult.h"
 
 @class VenueMapAnnotation;
 
-@interface VenueLocationController : UIViewController <MKMapViewDelegate,CLLocationManagerDelegate> {
-	IBOutlet MKMapView *mapView;
-	CLLocationManager *locationManager;
+@interface VenueLocationController : UIViewController <MKMapViewDelegate,CLLocationManagerDelegate,
+UISearchBarDelegate,UISearchDisplayDelegate,
+//UITableViewDelegate,UITableViewDataSource,
+BSForwardGeocoderDelegate> {
 	
-	NSFetchedResultsController *fetchedResultsController;	
+	IBOutlet MKMapView *mapView;
+	IBOutlet UISearchBar *searchBar;
+	
+	CLLocationManager *locationManager;
+	NSMutableArray *foundLocations;
+	NSMutableArray *placemarks;
+	CLLocationCoordinate2D currentLocationCoordinate;
+	
+	BSForwardGeocoder *forwardGeocoder;
+		
 	Venue *venue;
 }
 
+@property (nonatomic, retain) IBOutlet UISearchBar *searchBar;
 @property (nonatomic, retain) IBOutlet MKMapView *mapView;
+
 @property (nonatomic, retain) CLLocationManager *locationManager;
+@property (nonatomic, retain) NSMutableArray *foundLocations;
+@property (nonatomic, retain) NSMutableArray *placemarks;
+@property (nonatomic, retain) BSForwardGeocoder *forwardGeocoder;
 
 @property (nonatomic, retain) Venue *venue;
-@property (nonatomic,retain) NSFetchedResultsController *fetchedResultsController;
+
+- (void)saveLocation;
 
 @end

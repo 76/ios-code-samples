@@ -264,10 +264,9 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>C9B510151366AE6C003598D8</string>
 								<string>080E96DDFE201D6D7F000001</string>
+								<string>C95B057A13696459002607A4</string>
 								<string>C9B511F41366D75A003598D8</string>
-								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>28D3F201112F7DC200FD0661</string>
 								<string>29B97323FDCFA39411CA2CEA</string>
@@ -277,14 +276,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>19</integer>
-									<integer>11</integer>
-									<integer>9</integer>
+									<integer>24</integer>
+									<integer>16</integer>
+									<integer>3</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {230, 616}}</string>
+							<string>{{0, 7}, {230, 616}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -333,7 +332,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C95B054013689945002607A4</string>
+										<string>C95B07911369C7CB002607A4</string>
 										<key>history</key>
 										<array>
 											<string>C9B50FFD1366ABC6003598D8</string>
@@ -345,47 +344,58 @@
 											<string>C9B512481366DDD3003598D8</string>
 											<string>C9B5131613680DED003598D8</string>
 											<string>C9B5131713680DED003598D8</string>
-											<string>C9B51373136815F2003598D8</string>
-											<string>C9B51374136815F2003598D8</string>
 											<string>C9B5137D13681610003598D8</string>
 											<string>C9B5138713681679003598D8</string>
-											<string>C9B513A013682019003598D8</string>
 											<string>C9B513AD13682019003598D8</string>
-											<string>C9B513D3136822F1003598D8</string>
-											<string>C9B5140713682577003598D8</string>
-											<string>C9B5140913682577003598D8</string>
-											<string>C9B5143913682B5A003598D8</string>
-											<string>C9B5143A13682B5A003598D8</string>
-											<string>C9B5143B13682B5A003598D8</string>
-											<string>C9B5143C13682B5A003598D8</string>
-											<string>C9B5143D13682B5A003598D8</string>
-											<string>C9B5143E13682B5A003598D8</string>
-											<string>C9B5144013682B5A003598D8</string>
 											<string>C9B5146C13682F37003598D8</string>
 											<string>C9B5146D13682F37003598D8</string>
-											<string>C9B5147F1368314F003598D8</string>
-											<string>C9B514801368314F003598D8</string>
-											<string>C95B0485136888FF002607A4</string>
-											<string>C95B0486136888FF002607A4</string>
-											<string>C95B0487136888FF002607A4</string>
-											<string>C95B0488136888FF002607A4</string>
-											<string>C95B0489136888FF002607A4</string>
-											<string>C95B048A136888FF002607A4</string>
-											<string>C95B04A913688A0B002607A4</string>
-											<string>C95B04FB13688F98002607A4</string>
-											<string>C95B04FD13688F98002607A4</string>
-											<string>C95B04FE13688F98002607A4</string>
-											<string>C95B050013688F98002607A4</string>
 											<string>C95B050E136893C1002607A4</string>
-											<string>C95B0512136893C1002607A4</string>
 											<string>C95B0514136893C1002607A4</string>
 											<string>C95B0515136893C1002607A4</string>
-											<string>C95B0516136893C1002607A4</string>
-											<string>C95B0517136893C1002607A4</string>
-											<string>C95B05281368980A002607A4</string>
-											<string>C95B0531136898D2002607A4</string>
-											<string>C95B0532136898D2002607A4</string>
-											<string>C95B053F13689945002607A4</string>
+											<string>C95B05491369621D002607A4</string>
+											<string>C95B05AD13696691002607A4</string>
+											<string>C95B065C136971E3002607A4</string>
+											<string>C95B0660136971E3002607A4</string>
+											<string>C95B067C136972EE002607A4</string>
+											<string>C95B070C1369BC7B002607A4</string>
+											<string>C95B070D1369BC7B002607A4</string>
+											<string>C95B070E1369BC7B002607A4</string>
+											<string>C95B070F1369BC7B002607A4</string>
+											<string>C95B07181369BC7B002607A4</string>
+											<string>C95B07191369BC7B002607A4</string>
+											<string>C95B071A1369BC7B002607A4</string>
+											<string>C95B072F1369C04C002607A4</string>
+											<string>C95B07301369C04C002607A4</string>
+											<string>C95B07311369C04C002607A4</string>
+											<string>C95B07321369C04C002607A4</string>
+											<string>C95B07341369C04C002607A4</string>
+											<string>C95B073A1369C04C002607A4</string>
+											<string>C95B073B1369C04C002607A4</string>
+											<string>C95B073C1369C04C002607A4</string>
+											<string>C95B073D1369C04C002607A4</string>
+											<string>C95B073E1369C04C002607A4</string>
+											<string>C95B073F1369C04C002607A4</string>
+											<string>C95B07401369C04C002607A4</string>
+											<string>C95B07411369C04C002607A4</string>
+											<string>C95B07421369C04C002607A4</string>
+											<string>C95B07431369C04C002607A4</string>
+											<string>C95B07441369C04C002607A4</string>
+											<string>C95B07451369C04C002607A4</string>
+											<string>C95B07461369C04C002607A4</string>
+											<string>C95B07471369C04C002607A4</string>
+											<string>C95B07481369C04C002607A4</string>
+											<string>C95B07511369C22F002607A4</string>
+											<string>C95B075B1369C4B5002607A4</string>
+											<string>C95B07611369C4B5002607A4</string>
+											<string>C95B077B1369C6F3002607A4</string>
+											<string>C95B077C1369C6F3002607A4</string>
+											<string>C95B077D1369C6F3002607A4</string>
+											<string>C95B077E1369C6F3002607A4</string>
+											<string>C95B077F1369C6F3002607A4</string>
+											<string>C95B07801369C6F3002607A4</string>
+											<string>C95B07811369C6F3002607A4</string>
+											<string>C95B07821369C6F3002607A4</string>
+											<string>C95B07901369C7CB002607A4</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -583,7 +593,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>C95B053C13689907002607A4</string>
 		<string>C95B0490136888FF002607A4</string>
 		<string>C95B0491136888FF002607A4</string>
 		<string>1C78EAAD065D492600B07095</string>
@@ -608,12 +617,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>RootViewController.m</string>
+								<string>VenuesViewController.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -630,8 +641,6 @@
 							<string>540pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -926,6 +935,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -938,7 +949,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1246, 577}}</string>
 								<key>RubberWindowFrame</key>
-								<string>34 160 1246 618 0 0 1280 778 </string>
+								<string>28 157 1246 618 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
@@ -967,7 +978,7 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>34 160 1246 618 0 0 1280 778 </string>
+			<string>28 157 1246 618 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>

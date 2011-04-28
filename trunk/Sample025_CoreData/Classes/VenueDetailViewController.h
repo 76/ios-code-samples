@@ -14,9 +14,7 @@
 
 @interface VenueDetailViewController : UITableViewController {
 	Venue *venue;
-	NSFetchedResultsController *fetchedResultsController;
 }
 @property (nonatomic,retain) Venue *venue;
-@property (nonatomic,retain) NSFetchedResultsController *fetchedResultsController;
 
 @end

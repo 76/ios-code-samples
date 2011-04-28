@@ -13,7 +13,6 @@
 @implementation VenueDetailViewController
 
 @synthesize venue;
-@synthesize fetchedResultsController;
 
 #pragma mark -
 #pragma mark View lifecycle
@@ -159,7 +158,6 @@
 	if(indexPath.row == 0)
 	{
 		VenueNameViewController *vc = [[VenueNameViewController alloc] initWithNibName:@"VenueNameViewController" bundle:[NSBundle mainBundle]];
-		vc.fetchedResultsController = self.fetchedResultsController;
 		vc.venue = self.venue;
 		
 		[self.navigationController pushViewController:vc animated:YES];
@@ -169,7 +167,6 @@
 	if(indexPath.row == 1)
 	{
 		VenueLocationController *vc = [[VenueLocationController alloc] initWithNibName:@"VenueLocationController" bundle:[NSBundle mainBundle]];
-		vc.fetchedResultsController = self.fetchedResultsController;
 		vc.venue = self.venue;
 		
 		[self.navigationController pushViewController:vc animated:YES];
@@ -197,7 +194,6 @@
 
 - (void)dealloc {
 	[venue release];
-	[fetchedResultsController release];
     [super dealloc];
 }
 

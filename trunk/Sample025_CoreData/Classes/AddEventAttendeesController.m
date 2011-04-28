@@ -15,7 +15,6 @@
 
 @synthesize event;
 @synthesize members;
-@synthesize fetchedResultsController = fetchedResultsController_;
 @synthesize managedObjectContext = managedObjectContext_;
 
 - (void)editMembers{

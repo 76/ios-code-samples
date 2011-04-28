@@ -12,7 +12,6 @@
 @implementation AddEventVenueController
 
 @synthesize event;
-@synthesize eventFetchedResultsController;
 @synthesize fetchedResultsController=fetchedResultsController_, managedObjectContext=managedObjectContext_;
 
 #pragma mark -
@@ -197,10 +196,9 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
 	self.event.venue = (Venue *)[[self fetchedResultsController] objectAtIndexPath:indexPath];;
 	
-	NSManagedObjectContext *context = [self.eventFetchedResultsController managedObjectContext];
 	
 	NSError *error = nil;
-	if (![context save:&error]) {
+	if (![self.managedObjectContext save:&error]) {
 		NSLog(@"Error: %@", [error description]);
 	}
 	
@@ -226,7 +224,6 @@
 
 - (void)dealloc {
 	[event release];
-	[eventFetchedResultsController release];
     [super dealloc];
 }
 

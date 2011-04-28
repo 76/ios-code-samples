@@ -22,6 +22,11 @@
 		C95B04A6136889FD002607A4 /* VenueLocationController.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */; };
 		C95B04A7136889FD002607A4 /* VenueLocationController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C95B04A5136889FD002607A4 /* VenueLocationController.xib */; };
 		C95B04DC13688C84002607A4 /* VenueMapAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */; };
+		C95B058613696491002607A4 /* BSAddressComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B057D13696491002607A4 /* BSAddressComponent.m */; };
+		C95B058713696491002607A4 /* BSForwardGeocoder.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B057F13696491002607A4 /* BSForwardGeocoder.m */; };
+		C95B058813696491002607A4 /* BSGoogleV2KmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B058113696491002607A4 /* BSGoogleV2KmlParser.m */; };
+		C95B058913696491002607A4 /* BSGoogleV3KmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B058313696491002607A4 /* BSGoogleV3KmlParser.m */; };
+		C95B058A13696491002607A4 /* BSKmlResult.m in Sources */ = {isa = PBXBuildFile; fileRef = C95B058513696491002607A4 /* BSKmlResult.m */; };
 		C9B5101E1366B071003598D8 /* EventDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B5101C1366B071003598D8 /* EventDetailViewController.m */; };
 		C9B5101F1366B071003598D8 /* EventDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9B5101D1366B071003598D8 /* EventDetailViewController.xib */; };
 		C9B510671366B536003598D8 /* AddEventNameController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B510651366B536003598D8 /* AddEventNameController.m */; };
@@ -76,6 +81,16 @@
 		C95B04A5136889FD002607A4 /* VenueLocationController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = VenueLocationController.xib; path = Classes/VenueLocationController.xib; sourceTree = "<group>"; };
 		C95B04DA13688C84002607A4 /* VenueMapAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VenueMapAnnotation.h; sourceTree = "<group>"; };
 		C95B04DB13688C84002607A4 /* VenueMapAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VenueMapAnnotation.m; sourceTree = "<group>"; };
+		C95B057C13696491002607A4 /* BSAddressComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSAddressComponent.h; sourceTree = "<group>"; };
+		C95B057D13696491002607A4 /* BSAddressComponent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSAddressComponent.m; sourceTree = "<group>"; };
+		C95B057E13696491002607A4 /* BSForwardGeocoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSForwardGeocoder.h; sourceTree = "<group>"; };
+		C95B057F13696491002607A4 /* BSForwardGeocoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSForwardGeocoder.m; sourceTree = "<group>"; };
+		C95B058013696491002607A4 /* BSGoogleV2KmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSGoogleV2KmlParser.h; sourceTree = "<group>"; };
+		C95B058113696491002607A4 /* BSGoogleV2KmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSGoogleV2KmlParser.m; sourceTree = "<group>"; };
+		C95B058213696491002607A4 /* BSGoogleV3KmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSGoogleV3KmlParser.h; sourceTree = "<group>"; };
+		C95B058313696491002607A4 /* BSGoogleV3KmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSGoogleV3KmlParser.m; sourceTree = "<group>"; };
+		C95B058413696491002607A4 /* BSKmlResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSKmlResult.h; sourceTree = "<group>"; };
+		C95B058513696491002607A4 /* BSKmlResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSKmlResult.m; sourceTree = "<group>"; };
 		C9B5101B1366B071003598D8 /* EventDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventDetailViewController.h; sourceTree = "<group>"; };
 		C9B5101C1366B071003598D8 /* EventDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventDetailViewController.m; sourceTree = "<group>"; };
 		C9B5101D1366B071003598D8 /* EventDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = EventDetailViewController.xib; path = Classes/EventDetailViewController.xib; sourceTree = "<group>"; };
@@ -144,6 +159,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				C95B057A13696459002607A4 /* Forward Geocoding */,
 				C9B5130E13680DC3003598D8 /* Members */,
 				C9B511F41366D75A003598D8 /* Venue */,
 				C9B511D51366D5C3003598D8 /* Event */,
@@ -219,6 +235,23 @@
 				C95B049F1368894D002607A4 /* MapKit.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C95B057A13696459002607A4 /* Forward Geocoding */ = {
+			isa = PBXGroup;
+			children = (
+				C95B057C13696491002607A4 /* BSAddressComponent.h */,
+				C95B057D13696491002607A4 /* BSAddressComponent.m */,
+				C95B057E13696491002607A4 /* BSForwardGeocoder.h */,
+				C95B057F13696491002607A4 /* BSForwardGeocoder.m */,
+				C95B058013696491002607A4 /* BSGoogleV2KmlParser.h */,
+				C95B058113696491002607A4 /* BSGoogleV2KmlParser.m */,
+				C95B058213696491002607A4 /* BSGoogleV3KmlParser.h */,
+				C95B058313696491002607A4 /* BSGoogleV3KmlParser.m */,
+				C95B058413696491002607A4 /* BSKmlResult.h */,
+				C95B058513696491002607A4 /* BSKmlResult.m */,
+			);
+			name = "Forward Geocoding";
 			sourceTree = "<group>";
 		};
 		C9B510151366AE6C003598D8 /* Model */ = {
@@ -394,6 +427,11 @@
 				C9B513C41368218A003598D8 /* SelectEventAttendeesController.m in Sources */,
 				C95B04A6136889FD002607A4 /* VenueLocationController.m in Sources */,
 				C95B04DC13688C84002607A4 /* VenueMapAnnotation.m in Sources */,
+				C95B058613696491002607A4 /* BSAddressComponent.m in Sources */,
+				C95B058713696491002607A4 /* BSForwardGeocoder.m in Sources */,
+				C95B058813696491002607A4 /* BSGoogleV2KmlParser.m in Sources */,
+				C95B058913696491002607A4 /* BSGoogleV3KmlParser.m in Sources */,
+				C95B058A13696491002607A4 /* BSKmlResult.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

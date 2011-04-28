@@ -7,18 +7,18 @@
 //
 
 #import "MemberDetailViewController.h"
-
+#import "Sample025_CoreDataAppDelegate.h"
 
 @implementation MemberDetailViewController
 
 @synthesize member;
-@synthesize fetchedResultsController;
 
 -(void)saveMember{
 	self.member.firstName = firstNameField.text;
 	self.member.lastName = lastNameField.text;
 	
-	NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
+	Sample025_CoreDataAppDelegate *appdel = [[UIApplication sharedApplication] delegate];
+	NSManagedObjectContext *context = appdel.managedObjectContext;
 	
 	// Save the context.
 	NSError *error = nil;
@@ -103,7 +103,6 @@
 
 - (void)dealloc {
     [member release];
-	[fetchedResultsController release];
 	[super dealloc];
 }
 
