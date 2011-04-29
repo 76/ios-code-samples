@@ -488,6 +488,10 @@
 			C95B078A1369C73C002607A4 /* PBXTextBookmark */ = C95B078A1369C73C002607A4 /* PBXTextBookmark */;
 			C95B07901369C7CB002607A4 /* PBXTextBookmark */ = C95B07901369C7CB002607A4 /* PBXTextBookmark */;
 			C95B07911369C7CB002607A4 /* PBXTextBookmark */ = C95B07911369C7CB002607A4 /* PBXTextBookmark */;
+			C95B079A136AD41E002607A4 /* PBXTextBookmark */ = C95B079A136AD41E002607A4 /* PBXTextBookmark */;
+			C95B07B3136AD47B002607A4 /* PBXTextBookmark */ = C95B07B3136AD47B002607A4 /* PBXTextBookmark */;
+			C95B07CA136AD49E002607A4 /* PBXTextBookmark */ = C95B07CA136AD49E002607A4 /* PBXTextBookmark */;
+			C95B07DF136AD4C6002607A4 /* PBXTextBookmark */ = C95B07DF136AD4C6002607A4 /* PBXTextBookmark */;
 			C9B50FFB1366ABC6003598D8 = C9B50FFB1366ABC6003598D8 /* PBXTextBookmark */;
 			C9B50FFC1366ABC6003598D8 = C9B50FFC1366ABC6003598D8 /* PBXTextBookmark */;
 			C9B50FFD1366ABC6003598D8 = C9B50FFD1366ABC6003598D8 /* XDModelBookmark */;
@@ -1149,7 +1153,7 @@
 	C95B04A4136889FD002607A4 /* VenueLocationController.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1139, 5018}}";
-			sepNavSelRange = "{1321, 0}";
+			sepNavSelRange = "{1006, 0}";
 			sepNavVisRange = "{399, 1612}";
 		};
 	};
@@ -3790,6 +3794,46 @@
 		vrLen = 1612;
 		vrLoc = 399;
 	};
+	C95B079A136AD41E002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 42";
+		rLen = 0;
+		rLoc = 1321;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 399;
+	};
+	C95B07B3136AD47B002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 33";
+		rLen = 0;
+		rLoc = 941;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 399;
+	};
+	C95B07CA136AD49E002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 33";
+		rLen = 0;
+		rLoc = 941;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 399;
+	};
+	C95B07DF136AD4C6002607A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C95B04A4136889FD002607A4 /* VenueLocationController.m */;
+		name = "VenueLocationController.m: 36";
+		rLen = 0;
+		rLoc = 1006;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 399;
+	};
 	C9B50FB513602AE3003598D8 /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
@@ -6188,7 +6232,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {2371, 4316}}";
 			sepNavSelRange = "{6173, 0}";
-			sepNavVisRange = "{5162, 1333}";
+			sepNavVisRange = "{5162, 1340}";
 		};
 	};
 	C9B511FB1366D784003598D8 /* PBXTextBookmark */ = {
